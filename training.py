@@ -7,6 +7,9 @@ model_name = "t5-small"
 tokenizer = T5Tokenizer.from_pretrained(model_name)
 model = T5ForConditionalGeneration.from_pretrained(model_name)
 
+# Enforce English SQL output
+model.config.forced_bos_token_id = tokenizer.convert_tokens_to_ids("▁select")  # Ensures SQL queries start with "SELECT"
+
 # Load dataset from CSV
 dataset = load_dataset("csv", data_files={
     "train": r"C:\Users\B15\Major-Project-sem-8\nlp_sql_dataset_vague.csv",
@@ -23,7 +26,7 @@ if not expected_columns.issubset(set(dataset["train"].column_names)):
 
 # Tokenization function
 def preprocess_data(example):
-    inputs = tokenizer("translate English to SQL: " + example["NLP Query"], padding="max_length", truncation=True, max_length=128)
+    inputs = tokenizer("translate English to English SQL: " + example["NLP Query"], padding="max_length", truncation=True, max_length=128)
     targets = tokenizer(example["SQL Query"], padding="max_length", truncation=True, max_length=128)
     
     inputs["labels"] = targets["input_ids"]
