@@ -12,8 +12,8 @@ model.config.forced_bos_token_id = tokenizer.convert_tokens_to_ids("▁select") 
 
 # Load dataset from CSV
 dataset = load_dataset("csv", data_files={
-    "train": r"C:\Users\B15\Major-Project-sem-8\nlp_sql_dataset_vague.csv",
-    "validation": r"C:\Users\B15\Major-Project-sem-8\nlp_sql_dataset_validation.csv"  # Added validation dataset
+    "train": r"C:\Users\Admin\Downloads\Major-Project-sem-8-main\Major-Project-sem-8-main\nlp_sql_dataset_vague.csv",
+    "validation": r"C:\Users\Admin\Downloads\Major-Project-sem-8-main\Major-Project-sem-8-main\nlp_sql_dataset_validation.csv"  # Added validation dataset
 })
 
 # Debug: Print column names
