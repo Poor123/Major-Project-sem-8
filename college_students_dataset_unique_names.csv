@@ -1,0 +1,1001 @@
+pid,sem,month_year,gpa,result,ECategory,Hobby,Hobby_level,Name,acadyear,stat,ssc,hsc,cet,diploma
+197882,1.0,01-12-2018,0,0,sports,karate ,national,Stephen Sequeira,2011-2012,regular,73.0,59.0,51.0,73.0
+197883,1.0,01-12-2018,0,0,sports,football,school,Anjali Nair,2011-2012,regular,73.0,59.0,51.0,73.0
+197884,1.0,01-05-2019,0,0,hobbies,reading books,school,Teresa Pereira,2012-2013,regular,73.0,59.0,51.0,73.0
+197885,1.0,01-12-2019,0,0,cultural,mono-act play,school,Khalid Mirza,2012-2013,regular,73.0,59.0,51.0,73.0
+197886,1.0,01-12-2012,0,0,hobbies,"reading, singing",school,Rahul Saxena,2012-2013,regular,73.0,59.0,51.0,73.0
+197887,2.0,01-05-2013,0,0,sports,"reading, singing",national,John Coelho,2013-2014,regular,73.0,59.0,51.0,73.0
+197888,1.0,01-05-2013,0,1,games,"reading, singing",national,Catherine Pereira,2013-2014,regular,73.0,59.0,51.0,73.0
+197889,3.0,01-12-2013,0,0,cultural,"reading, singing",national,Rahul Mehta,2014-2015,regular,73.0,59.0,51.0,73.0
+197890,2.0,01-12-2013,0,0,hobbies,"reading, singing",national,Elizabeth Gomes,2015-2016,regular,73.0,59.0,51.0,73.0
+197891,2.0,01-05-2014,0,0,others,s,national,Nikita Desai,2015-2016,regular,71.0,0.0,51.0,73.0
+197892,3.0,01-05-2014,0,0,games,"table tennis,p.s",school,Margaret Dias,2017-2018,regular,95.0,67.0,51.0,73.0
+197893,4.0,01-05-2014,0,0,sports,"shot-put,discuss-throw and javelin throw",state,Aarav Trivedi,2017-2018,regular,63.4,59.38,67.0,73.0
+197894,3.0,01-12-2014,0,0,games,"volleyball,throw-ball",district,Sanjay Kulkarni,2017-2018,regular,81.6,85.6,0.0,73.0
+197895,2.0,01-12-2014,0,0,sports,cricket,district,Simon Fernandes,2019-2020,regular,85.2,74.2,0.0,73.0
+197896,3.0,01-05-2015,0,0,games,kho  kho,school,Sanjay Sharma,2014-2015,regular,85.2,74.2,0.0,73.0
+197897,2.0,01-05-2015,0,0,sports,marathon,national,Imran Tariq,2014-2015,regular,85.2,74.2,0.0,73.0
+197898,2.0,01-12-2015,0,0,games,cricket,district,Meera Malhotra,2014-2015,regular,85.2,74.2,0.0,73.0
+197899,1.0,01-12-2012,0,0,hobbies,"swimming, cycling, running, fishing,etc.",state,Neha Reddy,2014-2015,regular,85.2,74.2,0.0,73.0
+197900,2.0,01-05-2013,0,0,sports,tennis,state,Ayesha Malik,2014-2015,regular,85.2,74.2,0.0,73.0
+197901,1.0,01-05-2013,0,0,games,football,school,Simon Noronha,2014-2015,regular,85.2,74.2,0.0,73.0
+197902,1.0,01-12-2013,0,0,cultural,drama,school,Daniel Gomes,2014-2015,regular,85.2,74.2,0.0,73.0
+197903,3.0,01-12-2013,0,0,hobbies,piano (grade 8),national,Joseph Dias,2014-2015,regular,85.2,74.2,0.0,73.0
+197904,2.0,01-12-2013,0,0,cultural,"drama,speech",district,Margaret Almeida,2015-2016,regular,85.2,74.2,0.0,73.0
+197905,2.0,01-05-2014,0,0,hobbies,drawing,school,Daniel Fernandes,2015-2016,regular,85.2,74.2,0.0,73.0
+197906,3.0,01-05-2014,0,0,sports,"cricket,volleyball,football",school,Varun Saxena,2015-2016,regular,85.2,74.2,0.0,73.0
+197907,4.0,01-05-2014,0,0,hobbies,"cricket,swimming",school,Deepak Joshi,2015-2016,regular,85.2,74.2,0.0,73.0
+197908,1.0,01-05-2014,0,0,sports,kho-kho,state,Shabana Rehman,2015-2016,regular,85.2,74.2,0.0,73.0
+197909,3.0,01-12-2014,0,0,games,chess,school,Teresa Fernandes,2015-2016,regular,85.2,74.2,0.0,73.0
+197910,2.0,01-12-2014,0,0,hobbies,singing,state,Sneha Pandey,2015-2016,regular,85.2,74.2,0.0,73.0
+197911,1.0,01-12-2013,0,0,hobbies,"music,reading books, movies",school,Anne Pinto,2015-2016,regular,85.2,74.2,0.0,73.0
+197912,1.0,01-05-2014,0,0,sports,cricket,school,Rajesh Iyer,2015-2016,regular,85.2,74.2,0.0,73.0
+197913,1.0,01-12-2013,0,0,hobbies,"music,gaming,reading",school,Catherine Coelho,2015-2016,regular,85.2,74.2,0.0,73.0
+197914,2.0,01-05-2014,0,0,sports,running,school,Priya Trivedi,2015-2016,regular,85.2,74.2,0.0,73.0
+197915,1.0,01-05-2014,0,0,games,kho kho,school,David Almeida,2015-2016,regular,85.2,74.2,0.0,73.0
+197916,2.0,01-12-2014,0,0,cultural,dance,school,Anne Monteiro,2015-2016,regular,85.2,74.2,0.0,73.0
+197917,1.0,01-12-2014,0,0,hobbies,"reading , listening romantic songs",school,Lucas Rodrigues,2017-2018,regular,85.2,74.2,0.0,73.0
+197918,1.0,01-05-2015,0,0,others,painting craft works,school,Nikita Bansal,2017-2018,regular,85.2,74.2,0.0,73.0
+197919,2.0,01-05-2015,0,0,sports,throw ball championship,school,Elizabeth Gomes,2017-2018,regular,85.2,74.2,0.0,73.0
+197920,1.0,01-12-2015,0,0,cultural,writing,school,Deepak Chopra,2017-2018,regular,85.2,74.2,0.0,73.0
+197921,2.0,01-12-2015,0,0,hobbies,writing,school,Pooja Iyer,2020-2021,regular,73.8,52.4,26.0,73.0
+197922,3.0,01-12-2015,0,0,others,publised my poem in school magazine,school,Priya Desai,2020-2021,regular,88.8,78.6,74.4,73.0
+197923,1.0,01-05-2016,5.09,1,cultural,drama ,school,Kavita Iyer,2021-2022,regular,89.4,93.3,88.0,73.0
+197924,2.0,01-05-2016,0,0,sports,volleyball and cricket,school,Omar Syed,2021-2022,regular,85.6,93.0,69.7,73.0
+197925,3.0,01-05-2016,0,0,hobbies,dancing and singing,school,Varun Malhotra,2021-2022,regular,87.0,95.2,77.6,73.0
+197926,4.0,01-05-2016,0,0,others,like to read book and passionatea about computer program and electronic devices,school,Sameer Ahmed,2021-2022,regular,84.2,94.2,97.2,73.0
+197927,1.0,01-12-2013,0,\n,sports,no,school,Teresa Fernandes,2021-2022,regular,84.8,92.7,88.5,73.0
+197928,2.0,01-05-2014,\n,1,games,badminton,school,Michael D’Mello,2021-2022,regular,74.0,90.7,79.6,73.0
+197929,1.0,01-12-2013,0,0,cultural,no,school,Aarav Iyer,2021-2022,regular,92.6,94.3,92.9,73.0
+197930,2.0,01-05-2014,0,0,hobbies,card making;drawing,school,Sanjay Patel,2021-2022,regular,91.2,94.2,96.0,73.0
+197931,1.0,01-05-2014,0,0,others,no,school,Anjali Bansal,2021-2022,regular,80.8,90.3,83.3,73.0
+197932,2.0,01-12-2014,0,0,sports,running race,school,Rajesh Bhatt,2021-2022,regular,73.2,93.6,76.6,73.0
+197933,1.0,01-12-2014,0,0,games,quiz,school,Lucas Sequeira,2021-2022,regular,86.4,92.6,35.4,73.0
+197934,1.0,01-05-2015,0,0,cultural,dancing,school,Amit Trivedi,2021-2022,regular,76.4,81.1,66.2,73.0
+197935,2.0,01-05-2015,0,0,hobbies,"drawing,programming,reading,dancing",school,Anjali Bansal,2021-2022,regular,96.2,89.2,69.3,73.0
+197936,1.0,01-12-2015,0,0,sports,cricket,school,Neha Iyer,2021-2022,regular,75.4,88.2,77.2,73.0
+197937,2.0,01-12-2015,0,0,games,chess ,school,Simon D’Costa,2021-2022,regular,89.6,95.8,84.4,73.0
+197938,3.0,01-12-2015,0,0,cultural,traditional  day,school,Teresa Gomes,2021-2022,regular,69.0,77.8,63.7,73.0
+197939,1.0,01-05-2016,0,0,cultural,"dance, singing and drama",school,Lucas Rodrigues,2021-2022,regular,88.2,87.8,79.3,73.0
+197940,2.0,01-05-2016,0,0,sports,cricket,school,Sanjay Sharma,2021-2022,regular,78.4,0.0,0.0,73.0
+197941,3.0,01-05-2016,0,0,hobbies,maramari,national,Teresa D’Costa,2021-2022,regular,95.4,93.7,93.2,73.0
+197942,4.0,01-05-2016,0,0,sports, winner in intra college competition in volley ball,school,Margaret D’Mello,2021-2022,regular,86.0,82.8,95.7,73.0
+197943,2.0,01-12-2016,0,0,games, ,school,Daniel Sequeira,2021-2022,regular,90.4,91.1,96.7,73.0
+197944,3.0,01-12-2016,0,0,hobbies,"gardening, competitive coding ",school,Anthony Rodrigues,2021-2022,regular,88.0,84.0,83.0,73.0
+197945,4.0,01-12-2016,0,0,others,"trophy for mathematics,gold medal in nstse",national,Neha Saxena,2021-2022,regular,96.0,91.7,85.8,73.0
+197946,1.0,01-05-2017,\n,1,cultural,music,state,Christopher Machado,2021-2022,regular,89.2,92.5,96.0,73.0
+197947,2.0,01-05-2017,5.54,1,sports,hockey,school,Rahul Mehta,2021-2022,regular,87.2,94.1,85.7,73.0
+197948,3.0,01-05-2017,0,0,games,table tennis,school,Elizabeth Rodrigues,2021-2022,regular,86.8,94.2,78.2,73.0
+197949,4.0,01-05-2017,0,0,cultural,scouting,state,Anjali Choudhary,2021-2022,regular,91.8,89.0,72.5,73.0
+197950,1.0,01-12-2013,0,0,hobbies,reading,school,Stephen Machado,2021-2022,regular,84.6,94.6,75.9,73.0
+197951,2.0,01-05-2014,0,0,others,elocution,school,David Fernandes,2021-2022,regular,79.6,90.0,69.7,73.0
+197952,1.0,01-05-2014,0,0,sports,football,school,Aarav Agarwal,2021-2022,regular,79.0,92.3,85.7,73.0
+197953,2.0,01-12-2014,0,0,cultural,lazim,school,Aarav Joshi,2021-2022,regular,80.0,86.5,69.7,73.0
+197954,1.0,01-12-2014,0,0,others,scout and guides,school,Sanjay Verma,2021-2022,regular,82.0,87.8,82.7,73.0
+197955,1.0,01-05-2015,0,0,sports,swimming,school,Sanjay Malhotra,2021-2022,regular,84.8,94.8,80.8,73.0
+197956,2.0,01-05-2015,0,0,games,karate and badminton,school,Peter Castro,2021-2022,regular,85.2,91.0,75.9,73.0
+197957,1.0,01-12-2015,0,0,cultural,scout and guide commander,district,Khalid Chaudhry,2021-2022,regular,78.0,87.0,64.0,73.0
+197958,2.0,01-12-2015,0,0,hobbies,"coin collection,cosmology and mythology",school,Deepak Kulkarni,2021-2022,regular,96.3,95.8,95.8,73.0
+197959,3.0,01-12-2015,0,0,sports,"table tennis, 2nd place",school,Khalid Chaudhry,2021-2022,regular,81.6,84.4,96.2,73.0
+197960,1.0,01-05-2016,0,0,sports,basketball,school,Meera Patel,2021-2022,regular,95.8,91.2,88.6,73.0
+197961,2.0,01-05-2016,0,0,cultural,singing,school,Ramesh Agarwal,2021-2022,regular,83.2,89.1,88.7,73.0
+197962,3.0,01-05-2016,0,0,games,football ,district,Omar Qureshi,2021-2022,regular,88.8,89.2,75.9,73.0
+197963,4.0,01-05-2016,0,0,hobbies,e-sports,school,Zaid Shan,2021-2022,regular,83.0,93.0,36.0,73.0
+197964,2.0,01-12-2016,5.48,1,sports,no,school,Rahul Ghosh,2021-2022,regular,96.1,94.6,97.8,73.0
+197965,3.0,01-12-2016,0,0,games,no,school,Rajesh Mehta,2021-2022,regular,95.0,94.8,97.1,73.0
+197966,4.0,01-12-2016,0,0,cultural,no,school,Varun Kulkarni,2021-2022,regular,79.4,82.0,41.6,73.0
+197967,3.0,01-05-2017,0,0,hobbies,reading ,school,Varun Agarwal,2021-2022,regular,86.2,88.5,46.1,73.0
+197968,4.0,01-05-2017,0,0,sports,badminton ,school,Varun Kulkarni,2021-2022,regular,92.5,62.4,73.9,73.0
+197969,1.0,01-12-2013,0,0,cultural,passes elementary grade exam,state,Nikita Nair,2021-2022,regular,92.0,94.7,94.3,73.0
+197970,2.0,01-05-2014,0,0,hobbies,handwriting stylist,school,Aarav Choudhary,2021-2022,regular,79.8,89.5,72.6,73.0
+197971,1.0,01-05-2014,0,0,sports,football match - 2nd prize,school,Anjali Bansal,2021-2022,regular,94.2,90.7,95.8,73.0
+197972,2.0,01-12-2014,0,0,cultural,rangoli competition - 2nd prizerangat rang pot painting - 1st prize,school,Nikita Verma,2021-2022,regular,81.0,91.0,20.0,73.0
+197973,1.0,01-12-2014,0,0,hobbies,elementary drawing grade exam - a gradeintermediate drawing grade exam - a grade,state,David Machado,2021-2022,regular,88.8,94.5,82.5,73.0
+197974,1.0,01-05-2015,0,0,others,received higher secondary school scholarship,district,Nikita Mehta,2021-2022,regular,91.4,95.8,74.5,73.0
+197975,2.0,01-05-2015,0,0,others,received higher secondary school scholarship,district,Rohit Patel,2021-2022,regular,87.4,87.5,76.1,73.0
+197976,1.0,01-12-2015,0,0,others,received higher secondary school scholarship,district,Sanjay Reddy,2021-2022,regular,81.6,91.2,93.0,73.0
+197977,2.0,01-12-2015,0,0,sports,no,school,Meera Bhatt,2021-2022,regular,82.2,83.2,93.6,73.0
+197978,3.0,01-12-2015,0,0,games,no,school,Daniel Machado,2021-2022,regular,86.2,94.5,92.8,73.0
+197979,1.0,01-05-2016,0,0,hobbies,drawing,school,Lucas Noronha,2021-2022,regular,71.6,53.2,77.5,73.0
+197980,2.0,01-05-2016,0,0,others,received higher secondary school scholarship,district,Kiran Bansal,2021-2022,regular,86.8,75.5,89.2,73.0
+197981,3.0,01-05-2016,0,0,sports,"football, volleyball",school,Priya Reddy,2021-2022,regular,68.4,86.3,88.0,73.0
+197982,4.0,01-05-2016,0,0,cultural,"keen participation ""brahmostav"" - college fest ",school,Nikita Iyer,2021-2022,regular,88.8,89.3,89.3,73.0
+197983,1.0,01-12-2014,\n,1,hobbies,"pets (fish keeping), ",school,Michael Noronha,2021-2022,regular,87.2,94.8,97.5,73.0
+197984,1.0,01-12-2014,9.33,1,others,3 prize  in project ,school,Teresa Rodrigues,2021-2022,regular,81.2,92.9,89.9,73.0
+197985,2.0,01-05-2015,7.96,1,games,maharashtra softball chamionship,state,Priya Mehta,2021-2022,regular,74.6,78.1,76.4,73.0
+197986,3.0,01-12-2014,0,0,hobbies,chess,school,Amit Ghosh,2021-2022,regular,92.8,93.3,85.1,73.0
+197987,3.0,01-05-2015,0,0,cultural,singing,school,David Almeida,2021-2022,regular,83.0,89.0,84.0,73.0
+197988,4.0,01-05-2015,5.68,1,cultural,singing,school,Neha Iyer,2021-2022,regular,92.4,97.0,93.7,73.0
+197989,3.0,01-12-2015,5.68,1,sports,"football,volleyball",school,Thomas Sequeira,2021-2022,regular,84.4,87.3,58.6,73.0
+197990,5.0,01-12-2015,5.42,1,cultural,keen participant in bharamotsav at -tvm colege,school,Lucas Almeida,2021-2022,regular,73.8,82.6,77.6,73.0
+197991,6.0,01-05-2016,6.04,1,hobbies,pet (fish keeping),school,Vikram Choudhary,2021-2022,regular,84.0,87.5,94.7,73.0
+197992,7.0,01-12-2016,0,0,sports,football,school,Stephen Coelho,2021-2022,regular,83.2,92.0,86.7,73.0
+197993,1.0,01-12-2015,0,0,hobbies,badminton ,school,Francis Dias,2021-2022,regular,88.6,89.5,74.2,73.0
+197994,1.0,01-05-2016,0,0,hobbies,"mountaineering course from atal bihari bajpeyi institute, himachal pradesh",national,Pooja Trivedi,2021-2022,regular,87.0,85.0,89.0,73.0
+197995,2.0,01-05-2016,0,0,others,certified by bhonsala military school,state,Paul Lobo,2021-2022,regular,93.4,95.7,97.9,73.0
+197996,3.0,01-12-2015,0,0,games,throw ball,school,David Lobo,2021-2022,regular,43.5,72.0,78.1,73.0
+197997,3.0,01-05-2016,0,0,cultural,"dance, elocution, drama ",school,Catherine D'Souza,2021-2022,regular,74.4,89.0,93.2,73.0
+197998,4.0,01-05-2016,0,0,hobbies,"collecting currency of different countries, dance",national,Sana Malik,2021-2022,regular,82.6,89.0,71.2,73.0
+197999,3.0,01-12-2016,0,0,sports,karate,school,Neha Agarwal,2021-2022,regular,84.6,80.5,94.0,73.0
+198000,4.0,01-12-2016,0,0,cultural,all india dance and drama competition,national,Neha Verma,2021-2022,regular,93.2,82.4,80.8,73.0
+198001,3.0,01-05-2017,0,0,cultural,dance competition,school,Stephen D'Souza,2021-2022,regular,91.0,91.3,90.3,73.0
+198002,4.0,01-05-2017,0,0,cultural,dance ,school,Daniel Gomes,2021-2022,regular,92.4,85.3,89.4,73.0
+198003,3.0,01-12-2017,0,0,others,received higher secondary school scholarship,district,Rahul Pandey,2021-2022,regular,85.8,89.3,69.3,73.0
+198004,4.0,01-12-2017,0,0,hobbies,"dancing ,travelling",school,Teresa Noronha,2021-2022,regular,84.4,83.8,84.0,73.0
+198005,3.0,01-05-2018,0,0,cultural,"first in school cultural fest for singing and dancing 2016-17, 2nd inter school salad making competition",school,Vikram Reddy,2021-2022,regular,80.4,93.0,80.7,73.0
+198006,4.0,01-05-2018,0,0,hobbies,"reading, singing, cooking, research",school,John Castro,2021-2022,regular,84.0,87.9,73.3,73.0
+198007,3.0,01-12-2018,0,0,others,3rd prize in math quiz,school,Naseem Shaikh,2021-2022,regular,98.2,87.2,75.0,73.0
+198008,4.0,01-12-2018,0,0,sports,chess,school,Priya Kulkarni,2021-2022,regular,71.2,79.8,93.7,73.0
+198009,5.0,01-12-2018,5.67,"rs3 , 4",hobbies,elocution,school,Kavita Pandey,2021-2022,regular,82.2,94.8,67.2,73.0
+198010,3.0,01-05-2019,0,0,sports,1)awarded 2nd place in kho-kho inter house competition2)awarded second prize in football in interhouse competition,school,Shabana Rehman,2021-2022,regular,82.0,76.2,96.6,73.0
+198011,4.0,01-05-2019,0,0,cultural,won certificate of excellence with  first place for elocution in hindi ,school,Rahul Mehta,2021-2022,regular,86.0,94.0,92.2,73.0
+198012,6.0,01-05-2019,0,0,hobbies,"playing badminton and cricket, reading sports",school,Peter D'Souza,2021-2022,regular,88.6,92.3,89.4,73.0
+198013,3.0,01-12-2019,0,0,sports,throwball,district,Pooja Chopra,2021-2022,regular,83.0,82.5,84.4,73.0
+198014,4.0,01-12-2019,0,0,sports,table tennis,school,Teresa Pereira,2021-2022,regular,86.8,90.6,83.9,73.0
+198015,6.0,01-12-2019,0,0,hobbies,programming,school,Pooja Kulkarni,2021-2022,regular,93.0,81.0,58.6,73.0
+198016,1.0,01-12-2023,8.25,1,sports,wushu kickboxing,state,Sneha Agarwal,2021-2022,regular,88.0,91.6,84.7,73.0
+198017,1.0,01-05-2017,0,0,hobbies,martial arts ,state,Lucas Menezes,2021-2022,regular,78.0,87.5,75.1,73.0
+198018,1.0,01-05-2017,0,0,hobbies,elementary and intermediate,school,Christopher D’Mello,2021-2022,regular,84.4,92.8,89.6,73.0
+198019,2.0,01-05-2017,0,0,sports,hockey,school,Rajesh Agarwal,2021-2022,regular,73.8,88.2,85.7,73.0
+198020,1.0,01-12-2017,0,0,cultural,singing,state,Bilal Nawaz,2021-2022,regular,85.4,77.7,91.9,73.0
+198021,2.0,01-12-2017,0,0,sports,judo,state,Nikita Iyer,2021-2022,regular,91.6,92.5,93.4,73.0
+198022,3.0,01-12-2017,0,0,games,volleyball,district,Anjali Ghosh,2021-2022,regular,82.6,90.5,66.0,73.0
+198023,2.0,01-12-2018,0,0,cultural,kathak,district,Neha Choudhary,2021-2022,regular,79.6,89.8,17.6,73.0
+198024,1.0,01-05-2017,0,0,hobbies,"keyboard, london trinity",national,Peter Noronha,2021-2022,regular,89.2,96.8,98.0,73.0
+198025,2.0,01-05-2017,0,0,sports,karate,state,Farhan Siddiqui,2021-2022,regular,69.4,83.0,79.7,73.0
+198026,1.0,01-12-2017,0,0,games,"racing,",school,Simon Castro,2021-2022,regular,90.0,81.4,43.1,73.0
+198027,2.0,01-12-2017,0,0,hobbies,"cricket,",school,Rahul Iyer,2021-2022,regular,94.2,93.0,90.0,73.0
+198028,3.0,01-12-2017,0,0,cultural,"drawing, elocution competition, quiz contest, essay writing competition",school,Rahul Agarwal,2021-2022,regular,79.8,85.0,54.0,73.0
+198029,1.0,01-05-2018,0,0,others,"fancy dress competition, ",district,Catherine Pereira,2021-2022,regular,85.1,93.2,69.7,73.0
+198030,2.0,01-05-2018,0,0,cultural,singing,school,Rajesh Sharma,2021-2022,regular,95.4,93.0,94.4,73.0
+198031,3.0,01-05-2018,0,0,others,gk olympiad ,state,Peter D'Souza,2021-2022,regular,88.8,93.1,79.9,73.0
+198032,4.0,01-05-2018,0,0,sports,nil,school,Peter Menezes,2021-2022,regular,85.2,93.7,90.8,73.0
+198033,2.0,01-05-2017,6.41,1,games,nil,school,Joseph Noronha,2021-2022,regular,81.8,81.1,48.4,73.0
+198034,1.0,01-05-2019,0,0,cultural,nil,school,Ramesh Ghosh,2021-2022,regular,95.8,94.8,95.1,73.0
+198035,2.0,01-05-2019,0,0,hobbies,nil,school,Omar Kazmi,2021-2022,regular,88.4,95.0,89.0,73.0
+198036,1.0,01-12-2023,6.11,1,others,nil,school,Simon Fernandes,2021-2022,regular,76.4,83.8,66.1,73.0
+198037,1.0,01-12-2023,9.17,1,sports,shot put,school,Nikita Mehta,2021-2022,regular,89.8,93.6,98.1,73.0
+198038,1.0,01-12-2023,8.5,1,sports,shot put,school,Christopher D’Costa,2021-2022,regular,81.0,91.3,56.6,73.0
+198039,1.0,01-12-2023,7.33,1,hobbies,"reading, badminton, lawn tennis",school,Meera Bansal,2021-2022,regular,84.2,84.3,72.6,73.0
+198040,1.0,01-12-2023,0,0,hobbies,"reading, badminton, lawn tennis",school,Deepak Reddy,2021-2022,regular,63.6,67.8,76.4,73.0
+198041,1.0,01-12-2023,7.72,1,sports,basketball,state,Elizabeth D'Souza,2021-2022,regular,89.0,92.6,82.2,73.0
+198042,1.0,01-05-2018,0,0,sports,basketball,district,Francis D'Souza,2021-2022,regular,77.6,88.5,64.1,73.0
+198043,1.0,01-05-2018,0,0,sports,throw ball,school,Kiran Chopra,2021-2022,regular,89.9,85.1,78.8,73.0
+198044,2.0,01-05-2018,0,0,hobbies,dancing,school,Peter Coelho,2021-2022,regular,91.2,92.7,94.5,73.0
+198045,1.0,01-05-2018,0,0,sports,footbal,school,Stephen Sequeira,2021-2022,regular,85.2,88.8,95.1,73.0
+198046,1.0,01-12-2018,0,0,sports,track events,school,Catherine Fernandes,2021-2022,regular,85.6,88.0,70.0,73.0
+198047,1.0,01-12-2022,9.11,1,games,cricket,district,Deepak Agarwal,2021-2022,regular,76.0,91.5,61.7,73.0
+198048,1.0,01-12-2022,0,0,sports,no,school,Kavita Patel,2022-2023,regular,93.4,80.5,90.0,73.0
+198049,1.0,01-12-2022,0,0,games,no,school,Rohit Saxena,2022-2023,regular,78.6,56.0,80.3,73.0
+198050,1.0,01-12-2022,7.72,1,cultural,no,school,Varun Desai,2022-2023,regular,82.0,59.0,78.0,73.0
+198051,1.0,01-12-2022,7.78,1,hobbies,dreawing dancing singing,school,Meera Reddy,2022-2023,regular,93.2,67.7,72.0,73.0
+198052,1.0,01-12-2022,9.28,1,others,no,school,Catherine Almeida,2022-2023,regular,91.0,72.7,84.9,73.0
+198053,1.0,01-12-2022,8.61,1,sports,football,school,Rohit Bhatt,2022-2023,regular,96.2,89.8,94.4,73.0
+198054,1.0,01-12-2022,7.17,1,sports,selected for badminton at inter college level ,school,Rahul Pandey,2022-2023,regular,93.2,79.1,95.4,73.0
+198055,1.0,01-12-2022,9.39,1,games,was a part of throw ball team at school level,school,Meera Patel,2022-2023,regular,82.0,46.0,87.4,73.0
+198056,1.0,01-12-2022,7.83,1,cultural,"music- got selected in singing competition and won the 1st prize at the district ,state level. went to haridwar for the national level representing and maharashtra state.reached 5th level in hindustani classical music from akhil bharatiya gandharva vidhyalaya, mumbaibharata natyam - reached 5th level from akhil bharatiya gandharva vidhyalaya, mumbai",national,Kavita Kulkarni,2022-2023,regular,82.2,69.0,15.0,73.0
+198057,1.0,01-12-2022,0,0,hobbies,playing badminton,school,Manish Pandey,2022-2023,regular,94.0,91.7,93.7,73.0
+198058,1.0,01-12-2022,0,0,hobbies,dance  drawing,school,Rohit Joshi,2022-2023,regular,93.8,70.7,92.0,73.0
+198059,2.0,01-05-2022,9.75,1,sports,cricket,district,Daniel D’Mello,2022-2023,regular,94.2,75.5,86.5,73.0
+198060,1.0,01-12-2022,6.67,1,games,cricket,district,Junaid Siddiqui,2022-2023,regular,65.6,58.5,64.0,73.0
+198061,1.0,01-12-2022,8.83,1,hobbies,reading,school,John Dias,2022-2023,regular,68.8,60.8,74.7,73.0
+198062,1.0,01-12-2022,8.17,1,cultural,"dance, boogie woogie 2000 winner ( sony tv) mini superstar winner (dd metro)",school,Deepak Agarwal,2022-2023,regular,86.0,67.0,66.0,73.0
+198063,2.0,01-05-2022,7.88,1,sports,throw ball,district,Aarav Kulkarni,2022-2023,regular,82.6,63.8,78.3,73.0
+198064,1.0,01-12-2022,0,0,games,foot ball,district,Vikram Chopra,2022-2023,regular,88.4,82.8,85.0,73.0
+198065,2.0,01-05-2022,8.8,1,cultural,scout and guide,district,Imran Rehman,2022-2023,regular,94.2,81.3,80.3,73.0
+198066,2.0,01-05-2022,7.68,1,hobbies,"music, dancing",school,Neha Pandey,2022-2023,regular,79.0,52.0,89.0,73.0
+198067,1.0,01-12-2021,9.33,1,sports,karate - black belt 1 strip,school,Sanjay Iyer,2022-2023,regular,85.2,86.0,89.4,73.0
+198068,1.0,01-12-2021,9.89,1,cultural,elementary intermediate,school,Francis Pinto,2022-2023,regular,90.6,66.6,78.4,73.0
+198069,1.0,01-12-2021,9.67,1,cultural,elementary drawing examination,state,Imran Wahid,2022-2023,regular,76.4,67.1,88.6,73.0
+198070,1.0,01-12-2021,9.44,1,sports,throw ball,school,Lucas Machado,2022-2023,regular,69.4,50.5,68.2,73.0
+198071,1.0,01-12-2021,9.17,1,games,100 meter running,school,Ayesha Rehman,2022-2023,regular,91.6,74.1,66.4,73.0
+198072,1.0,01-12-2021,8,1,others,head girl,school,Anne Gomes,2022-2023,regular,94.6,72.7,81.8,73.0
+198073,1.0,01-12-2021,9.56,1,sports,-,school,Rohit Saxena,2022-2023,regular,89.0,67.3,62.0,73.0
+198074,1.0,01-12-2021,9.5,1,games,-,school,Rajesh Mehta,2022-2023,regular,87.8,62.5,79.2,73.0
+198075,1.0,01-12-2021,7.72,1,cultural,-,school,Aarav Verma,2022-2023,regular,93.6,60.0,79.9,73.0
+198076,1.0,01-12-2021,6.14,1,hobbies,art and craft,school,Meera Choudhary,2022-2023,regular,89.4,79.1,80.9,73.0
+198077,1.0,01-12-2021,9.39,1,others,-,school,Priya Choudhary,2022-2023,regular,80.0,72.5,89.7,73.0
+198078,1.0,01-12-2021,9.61,1,cultural,"carol singing, dancing",school,Joseph Sequeira,2022-2023,regular,87.2,62.6,87.2,73.0
+198079,1.0,01-12-2021,9.67,1,hobbies,drawing,school,Lucas Fernandes,2022-2023,regular,77.0,51.6,83.4,73.0
+198080,1.0,01-12-2021,9.83,1,others,tree plantation,school,Priya Trivedi,2022-2023,regular,86.2,66.0,81.4,73.0
+198081,1.0,01-12-2021,9.56,1,sports,karate,school,Thomas Fernandes,2022-2023,regular,85.2,66.3,79.5,73.0
+198082,1.0,01-12-2021,9.72,1,games,karate,school,Mary Monteiro,2022-2023,regular,84.2,60.5,79.8,73.0
+198083,1.0,01-12-2021,9.42,1,cultural,"instrumental competition, patriotic singing competition, carol singing competition",school,Kiran Agarwal,2022-2023,regular,79.0,54.8,83.4,73.0
+198084,1.0,01-12-2021,9.33,1,hobbies,"playing the guitar, group singing,",school,Thomas Sequeira,2022-2023,regular,89.2,73.6,85.2,73.0
+198085,1.0,01-12-2021,9.53,1,others,"playing the guitar, group singing,",school,Sanjay Ghosh,2022-2023,regular,79.6,54.0,74.2,73.0
+198086,1.0,01-12-2021,8.81,1,cultural,"carol singing, dancing, ",school,Varun Choudhary,2022-2023,regular,84.4,90.0,90.6,73.0
+198087,1.0,01-12-2021,9.72,1,hobbies,drawing,school,Simon Almeida,2022-2023,regular,93.2,64.8,77.1,73.0
+198088,1.0,01-12-2021,9.39,1,others,"tree plantation, swachh bharat abhiyan",school,Sanjay Patel,2022-2023,regular,93.0,62.8,78.1,73.0
+198089,1.0,01-12-2021,9.78,1,sports,throwball,school,Rajesh Desai,2022-2023,regular,87.6,71.5,94.5,73.0
+198090,1.0,01-12-2021,8.33,1,sports,football,district,Meera Choudhary,2022-2023,regular,86.2,80.8,97.4,73.0
+198091,1.0,01-12-2021,9.67,1,hobbies,"sports, music, drawing and arts",school,Paul Lobo,2022-2023,regular,91.0,79.6,93.3,73.0
+198092,1.0,01-12-2021,8.61,1,sports,football,school,Ayesha Mirza,2022-2023,regular,86.0,57.5,44.0,73.0
+198093,1.0,01-12-2021,9.61,1,cultural,drama,school,Sneha Bansal,2022-2023,regular,94.5,65.7,63.0,73.0
+198094,1.0,01-12-2021,9.61,1,hobbies,music,school,Varun Pandey,2022-2023,regular,95.0,79.1,90.5,73.0
+198095,1.0,01-12-2021,7.36,1,sports,football,district,Sneha Bansal,2022-2023,regular,93.0,79.5,94.6,73.0
+198096,1.0,01-12-2021,8.17,1,hobbies,drawing,school,Sneha Trivedi,2022-2023,regular,89.8,91.8,88.9,73.0
+198097,1.0,01-12-2021,9.42,1,hobbies,reading,school,Zaid Tariq,2022-2023,regular,97.2,90.4,95.3,73.0
+198098,1.0,01-12-2021,8.11,1,others,i have 2 years of exp zerebral it solution pvt ltd,national,Joseph Noronha,2022-2023,regular,92.4,89.7,86.4,73.0
+198099,1.0,01-12-2021,9.78,1,hobbies,singing,school,Teresa Noronha,2022-2023,regular,88.6,69.1,84.1,73.0
+198100,1.0,01-12-2021,9.11,1,others,keyboard,school,Rehan Shaikh,2022-2023,regular,90.8,93.3,96.6,73.0
+198101,1.0,01-12-2021,9.67,1,sports,relay,school,John Rodrigues,2022-2023,regular,86.4,86.8,89.6,73.0
+198102,1.0,01-12-2021,10,1,games,relay,school,Joseph Monteiro,2022-2023,regular,90.4,78.6,85.4,73.0
+198103,1.0,01-12-2021,10,1,cultural,dance,school,Joseph Pinto,2022-2023,regular,88.0,60.0,88.3,73.0
+198104,1.0,01-12-2021,8.86,1,hobbies,dance,school,Stephen Noronha,2022-2023,regular,95.6,73.6,93.9,73.0
+198105,1.0,01-12-2021,8.5,1,others,"homi bhabha, c.v. raman",district,Peter Fernandes,2022-2023,regular,80.2,85.6,85.6,73.0
+198106,1.0,01-12-2021,10,1,sports,wushu,state,Peter Rodrigues,2022-2023,regular,94.0,73.6,90.9,73.0
+198107,1.0,01-12-2021,9.61,1,games,kungfu,state,Vikram Sharma,2022-2023,regular,79.2,60.0,85.6,73.0
+198108,1.0,01-12-2021,9.17,1,hobbies,kungfu,state,Christopher D’Costa,2022-2023,regular,86.5,61.1,85.9,73.0
+198109,1.0,01-12-2021,9.17,1,sports,hockey,school,Catherine D’Mello,2022-2023,regular,93.4,93.7,96.7,73.0
+198110,1.0,01-12-2021,9.89,1,cultural,bharathnatyam,district,Meera Malhotra,2022-2023,regular,71.2,82.8,78.7,73.0
+198111,1.0,01-12-2021,7.89,1,hobbies,"dancing,acting,cooking",school,Kavita Reddy,2022-2023,regular,88.6,75.0,96.0,73.0
+198112,1.0,01-12-2021,9.61,1,sports,hockey,school,Manish Choudhary,2022-2023,regular,92.0,78.0,94.0,73.0
+198113,1.0,01-12-2021,9.25,1,cultural,bharathnatyam,district,Anthony Pinto,2022-2023,regular,90.6,72.3,93.4,73.0
+198114,2.0,01-05-2022,9.3,1,hobbies,"dancing,acting,cooking",school,Neha Choudhary,2022-2023,regular,86.8,62.0,94.2,73.0
+198115,2.0,01-05-2022,9.7,1,sports,hockey,school,Meera Malhotra,2022-2023,regular,89.6,67.7,89.5,73.0
+198116,2.0,01-05-2022,6.95,1,cultural,bharathnatyam,district,Vikram Agarwal,2022-2023,regular,86.4,71.5,95.3,73.0
+198117,2.0,01-05-2022,7.65,1,hobbies,"dancing,acting,cooking",school,Pooja Ghosh,2022-2023,regular,93.0,89.5,97.7,73.0
+198118,2.0,01-12-2019,0,0,cultural,"won elocution competition inter school, head girl of the school ",school,Margaret Coelho,2022-2023,regular,83.8,62.5,78.2,73.0
+198119,2.0,01-05-2022,10,1,others,"dr. homi bhabha balvaidnyanik competition, sir c.v.raman science talent exam",district,Rahul Kulkarni,2022-2023,regular,84.6,78.2,84.1,73.0
+198120,2.0,01-05-2022,9.53,1,sports,throwball athletics ,district,Christopher Castro,2022-2023,regular,85.4,63.5,90.9,73.0
+198121,5.0,01-12-2023,9.61,1,games,chess,school,Anthony Fernandes,2022-2023,regular,91.4,74.3,93.2,73.0
+198122,2.0,01-05-2022,8.2,1,hobbies,guitar,school,John Noronha,2022-2023,regular,88.0,66.1,94.4,73.0
+198123,3.0,01-12-2022,9.35,1,others,world scholars cup,state,Manish Joshi,2022-2023,regular,94.2,93.3,96.9,73.0
+198124,3.0,01-12-2022,0,0,games,chess,school,Neha Nair,2022-2023,regular,82.0,71.5,88.1,73.0
+198125,3.0,01-12-2022,0,0,hobbies,guitar,school,John Castro,2022-2023,regular,87.4,75.5,83.0,73.0
+198126,3.0,01-12-2022,10,1,others,world scholars cup,state,Sanjay Chopra,2022-2023,regular,87.0,55.8,74.9,73.0
+198127,3.0,01-12-2022,9.43,1,games,chess,school,Paul Sequeira,2022-2023,regular,77.3,55.2,61.8,73.0
+198128,3.0,01-12-2022,7.48,1,hobbies,pianoforte,school,Vikram Chopra,2022-2023,regular,95.2,78.8,88.8,73.0
+198129,2.0,01-05-2022,8.55,1,games,chess,school,Zara Rehman,2022-2023,regular,90.4,76.0,94.8,73.0
+198130,2.0,01-05-2022,7.1,1,hobbies,pianoforte,school,Rohit Reddy,2022-2023,regular,85.8,69.0,87.0,73.0
+198131,1.0,01-05-2023,6.44,1,sports,"basketball, athletics  ",school,Imran Chaudhry,2022-2023,regular,77.8,75.0,84.8,73.0
+198132,1.0,01-05-2023,0,0,cultural,"dance (indian and western), music (instrumental-upto grade 3 trinity college exam, singing), drawing (alimentary), speech and drama (trinity college grade exam-grade 5)",school,Rohit Bansal,2022-2023,regular,90.0,65.0,69.3,73.0
+198133,1.0,01-05-2023,0,0,hobbies,programming,national,Meera Chopra,2022-2023,regular,91.0,75.8,97.5,73.0
+198134,3.0,01-12-2022,9.48,1,hobbies,programming,national,Francis D’Mello,2022-2023,regular,86.6,91.3,94.4,73.0
+198135,6.0,01-05-2020,6.68,"rs3 , 4",games,chess,school,Paul D'Souza,2022-2023,regular,87.8,75.3,94.0,73.0
+198136,3.0,01-12-2022,7.74,1,hobbies,pianoforte,school,Lucas Machado,2022-2023,regular,93.8,86.7,86.0,73.0
+198137,2.0,01-05-2022,6.93,1,hobbies,reading books,school,Mary Castro,2022-2023,regular,79.2,58.6,76.6,73.0
+198138,3.0,01-12-2022,6.09,1,hobbies,reading books,school,Margaret Lobo,2022-2023,regular,90.0,74.5,77.6,73.0
+198139,3.0,01-12-2022,7.65,1,hobbies,reading books,school,Margaret Menezes,2022-2023,regular,97.6,97.9,90.1,73.0
+198140,3.0,01-12-2022,0,0,hobbies,reading books,school,Anne Fernandes,2022-2023,regular,93.2,73.7,62.1,73.0
+198141,1.0,01-05-2023,0,0,sports,none,school,Peter Lobo,2022-2023,regular,82.8,64.5,77.1,73.0
+198142,2.0,01-05-2022,0,0,games,none,school,Sneha Reddy,2022-2023,regular,74.8,61.5,80.6,73.0
+198143,2.0,01-05-2022,9.6,1,cultural,none,school,Meera Bhatt,2022-2023,regular,85.6,84.8,81.0,73.0
+198144,2.0,01-05-2022,10,1,hobbies,reading books,school,Mary D’Mello,2022-2023,regular,89.0,76.0,83.0,73.0
+198145,3.0,01-12-2022,10,1,others,none,school,Deepak Agarwal,2022-2023,regular,77.5,81.8,86.3,73.0
+198146,2.0,01-05-2022,8.8,1,sports,none,school,Thomas Carvalho,2022-2023,regular,91.0,78.0,84.8,73.0
+198147,1.0,01-12-2022,8.08,1,games,none,school,Michael Pinto,2022-2023,regular,92.8,81.8,97.3,73.0
+198148,2.0,01-05-2022,8.53,1,cultural,none,school,Aarav Malhotra,2022-2023,regular,85.8,75.0,81.6,73.0
+198149,3.0,01-12-2022,7,1,hobbies,reading books,school,Junaid Shaikh,2022-2023,regular,89.0,65.0,88.4,73.0
+198150,2.0,01-05-2022,7.35,1,others,none,school,Aarav Reddy,2022-2023,regular,85.2,51.8,50.8,73.0
+198151,2.0,01-05-2022,9.35,1,sports,2nd in 4*100 mts relay,school,David D’Mello,2022-2023,regular,84.2,90.1,87.3,73.0
+198152,2.0,01-05-2022,9.4,1,hobbies,english eassy competition (3rd place),school,Anjali Pandey,2022-2023,regular,82.2,76.7,95.3,73.0
+198153,3.0,01-12-2022,9.04,1,cultural,piano,school,Lucas D’Costa,2022-2023,regular,76.0,68.6,35.6,73.0
+198154,3.0,01-12-2022,9.87,1,others,elocution competiton and other activities in school,school,Paul Gomes,2022-2023,regular,83.6,88.6,74.1,73.0
+198155,3.0,01-12-2022,8.35,1,others,elocution competiton and other activities in school,school,Rohit Joshi,2022-2023,regular,78.2,74.1,96.3,73.0
+198156,2.0,01-05-2022,8.75,1,others,elocution competiton and other activities in school,school,Rahul Saxena,2022-2023,regular,91.4,90.3,96.2,73.0
+198157,3.0,01-12-2022,0,0,sports,player in the winning team in a school level football tournament,school,Elizabeth Fernandes,2022-2023,regular,83.9,73.5,87.1,73.0
+198158,3.0,01-12-2022,0,0,games,football,school,Daniel D’Mello,2022-2023,regular,80.0,58.6,84.2,73.0
+198159,3.0,01-12-2022,5.87,1,sports,"basketball,handball, football",school,Paul Gomes,2022-2023,regular,86.4,67.1,81.8,73.0
+198160,3.0,01-12-2022,0,0,hobbies,"basketball,handball, football",district,David Carvalho,2022-2023,regular,94.8,67.0,93.9,73.0
+198161,2.0,01-05-2022,7.75,1,sports,basketballhandball football,district,Omar Hussain,2022-2023,regular,95.6,83.1,80.4,73.0
+198162,3.0,01-12-2022,0,0,hobbies,taikwando-yellow belt,district,Daniel Pinto,2022-2023,regular,96.0,54.5,83.2,73.0
+198163,3.0,01-12-2022,0,0,sports,"relay,drill race,shot put",school,Daniel Machado,2022-2023,regular,79.2,74.2,96.7,73.0
+198164,2.0,01-05-2022,9,1,games,kho-kho,school,Rahul Choudhary,2022-2023,regular,94.0,77.1,94.6,73.0
+198165,3.0,01-12-2022,0,0,cultural,"dance,singing",school,Varun Verma,2022-2023,regular,79.4,79.3,97.7,73.0
+198166,3.0,01-12-2022,0,0,hobbies,sketching,school,Deepak Desai,2022-2023,regular,89.0,55.8,50.5,73.0
+198167,3.0,01-12-2022,0,0,others,elementary and intermediate ,school,Varun Reddy,2022-2023,regular,91.6,74.0,89.5,73.0
+198168,3.0,01-12-2022,0,0,others,"middleschool scholarship , highschool scholarship",state,Paul Dias,2022-2023,regular,83.0,79.7,78.1,73.0
+198169,3.0,01-12-2022,7,1,sports,badminton,district,Anjali Ghosh,2022-2023,regular,86.4,62.4,82.9,73.0
+198170,3.0,01-12-2022,0,0,hobbies,reading books,school,Khalid Shaikh,2022-2023,regular,91.8,81.8,92.7,73.0
+198171,2.0,01-05-2022,7.55,1,sports,volleyball,school,John Noronha,2022-2023,regular,89.2,90.3,94.4,73.0
+198172,3.0,01-12-2022,0,0,hobbies,"drawing""a"" grade in intermediate drawing examination",state,Neha Ghosh,2022-2023,regular,83.8,69.0,75.6,73.0
+198173,3.0,01-12-2022,0,0,sports,football,school,Deepak Patel,2022-2023,regular,90.0,75.7,85.1,73.0
+198174,3.0,01-12-2022,0,0,games,chess,school,Priya Sharma,2022-2023,regular,87.4,71.3,77.1,73.0
+198175,3.0,01-12-2022,6.52,1,hobbies,card making,school,Ramesh Chopra,2022-2023,regular,74.0,0.0,77.1,88.3
+198176,2.0,01-12-2022,0,0,games,card making,school,Yusuf Chaudhry,2022-2023,regular,83.2,0.0,77.1,88.5
+198177,2.0,01-12-2022,6.55,1,hobbies,card making,school,Meera Malhotra,2022-2023,regular,81.2,0.0,77.1,85.1
+198178,2.0,01-05-2022,6.98,1,sports,football,district,Aarav Nair,2022-2023,regular,77.0,0.0,77.1,86.3
+198179,4.0,01-12-2022,0,0,games,draughts,school,Priya Ghosh,2022-2023,regular,64.4,0.0,77.1,85.7
+198180,4.0,01-12-2022,0,0,hobbies,currency collection,school,Sanjay Malhotra,2022-2023,regular,79.2,0.0,77.1,87.4
+198181,1.0,01-05-2023,7.11,1,games,draughts,school,Simon Fernandes,2022-2023,regular,78.6,0.0,77.1,80.9
+198182,2.0,01-05-2022,7.73,1,hobbies,currency collection,school,Rohit Reddy,2022-2023,regular,93.8,0.0,77.1,90.5
+198183,1.0,01-05-2023,7.33,1,games,draughts,school,Rajesh Nair,2022-2023,regular,71.4,0.0,77.1,85.8
+198184,4.0,01-05-2023,0,0,hobbies,currency collection,school,Peter Pereira,2022-2023,regular,91.1,0.0,77.1,89.5
+198185,5.0,01-05-2023,0,0,sports,throwball,district,Anjali Ghosh,2022-2023,regular,92.0,0.0,77.1,90.5
+198186,2.0,01-05-2022,9.5,1,sports,"basketball, football, cricket",school,Sneha Nair,2022-2023,regular,89.4,0.0,77.1,90.0
+198187,1.0,01-12-2018,0,0,games,tug of war,school,Simon Rodrigues,2023-2024,regular,91.6,71.2,90.5,90.0
+198188,2.0,01-05-2022,0,0,cultural,western group dance,school,John Pinto,2023-2024,regular,86.1,82.4,80.0,90.0
+198189,2.0,01-05-2022,7.6,1,sports,wushu / kickboxing ,state,Meera Mehta,2023-2024,regular,94.4,81.3,49.5,90.0
+198190,2.0,01-05-2022,7.25,1,games,wushu / kickboxing,state,Priya Joshi,2023-2024,regular,88.7,70.5,81.0,90.0
+198191,2.0,01-05-2022,8.9,1,hobbies,martial arts (kung fu),state,Vikram Pandey,2023-2024,regular,87.2,74.6,92.6,90.0
+198192,2.0,01-05-2022,7.2,1,hobbies,"music,playing keyboard instrument,cricket.",school,Pooja Bansal,2023-2024,regular,91.6,68.1,93.8,90.0
+198193,2.0,01-05-2022,8.3,1,cultural,mun(mock united nations),school,Varun Kulkarni,2023-2024,regular,93.4,91.6,94.2,90.0
+198194,2.0,01-05-2022,8.7,1,sports,mun(mock united nations),district,John Almeida,2023-2024,regular,86.0,61.6,75.1,90.0
+198195,2.0,01-05-2022,8.25,1,others,essay writing,school,Rehan Rehman,2023-2024,regular,86.2,59.4,96.0,90.0
+198196,1.0,01-05-2023,5.89,1,hobbies,singing ,school,Simon D'Souza,2023-2024,regular,91.8,77.8,94.4,90.0
+198197,1.0,01-05-2023,6.64,1,others,science exhibitions,school,Vikram Patel,2023-2024,regular,89.2,63.0,77.0,90.0
+198198,1.0,01-05-2023,0,0,cultural,mun(mock united nations),school,Anne Lobo,2023-2024,regular,67.6,61.5,90.8,90.0
+198199,1.0,01-05-2023,0,0,sports,silver medal in kabbadi,school,Teresa Rodrigues,2023-2024,regular,73.8,79.0,97.7,90.0
+198200,2.0,01-05-2022,9.8,1,cultural,science exhibition(regional level),school,Vikram Pandey,2023-2024,regular,83.8,87.3,92.8,90.0
+198201,2.0,01-05-2022,0,0,sports,footbal,district,Aarav Patel,2023-2024,regular,92.6,77.2,94.2,90.0
+198202,2.0,01-05-2022,5.45,1,sports,cricket volleyball,school,Anjali Bhatt,2023-2024,regular,78.8,79.0,77.8,90.0
+198203,2.0,01-05-2022,6.65,1,cultural,participated in cultural programs in school,school,Vikram Kulkarni,2023-2024,regular,82.4,55.0,84.0,90.0
+198204,2.0,01-05-2022,8.75,1,hobbies,"reading, cycling, playing musical instrument",school,Anthony Noronha,2023-2024,regular,89.7,72.3,85.4,90.0
+198205,2.0,01-05-2022,7.35,1,hobbies,drawing(intermrediate),state,Peter Fernandes,2023-2024,regular,94.4,64.6,75.8,90.0
+198206,2.0,01-05-2022,7.75,1,sports,football,school,Kavita Sharma,2023-2024,regular,91.6,73.8,83.2,90.0
+198207,2.0,01-05-2022,0,0,cultural,musician,school,Kiran Bansal,2023-2024,regular,77.8,58.8,76.7,90.0
+198208,2.0,01-05-2023,0,0,hobbies,drawing(intermrediate),state,Vikram Sharma,2023-2024,regular,92.8,71.7,75.3,90.0
+198209,2.0,01-05-2023,0,0,sports,badminton,school,Sameer Nawaz,2023-2024,regular,93.0,57.5,50.8,90.0
+198210,2.0,01-05-2023,0,0,cultural,"music, drama, social work for interact club",school,Sara Khan,2023-2024,regular,81.4,61.2,83.4,90.0
+198211,2.0,01-05-2023,8.65,1,hobbies,"badminton, music, art",school,Kavita Mehta,2023-2024,regular,96.8,82.6,89.3,90.0
+198212,2.0,01-05-2023,8.55,1,sports,football,district,Pooja Bhatt,2023-2024,regular,94.6,69.0,83.4,90.0
+198213,2.0,01-05-2023,9.3,1,sports,running ,school,Catherine Dias,2023-2024,regular,91.9,70.3,90.9,90.0
+198214,2.0,01-05-2023,6.83,1,games,none,school,Anthony Coelho,2023-2024,regular,85.0,61.5,82.2,90.0
+198215,2.0,01-05-2023,9.15,1,cultural,none,school,Stephen Machado,2023-2024,regular,91.2,63.0,80.0,90.0
+198216,5.0,01-12-2023,7.13,1,hobbies,none,school,Varun Malhotra,2023-2024,regular,88.0,73.1,81.5,90.0
+198217,3.0,01-12-2023,0,0,others,none,school,Anjali Patel,2023-2024,regular,82.4,69.6,88.8,90.0
+198218,2.0,01-05-2022,6.9,1,cultural,dance drama ,school,Sana Shaikh,2023-2024,regular,95.6,89.6,95.7,90.0
+198219,2.0,01-05-2022,8.55,1,hobbies,reading drawing and art,school,Naseem Gul,2023-2024,regular,65.7,58.7,97.6,90.0
+198220,3.0,01-12-2023,0,0,sports,running ,school,Mary Monteiro,2023-2024,regular,88.4,59.3,84.2,90.0
+198221,2.0,01-05-2022,7.78,1,games,none,school,Paul Pinto,2023-2024,regular,89.6,64.8,77.8,90.0
+198222,3.0,01-12-2023,0,0,cultural,none,school,Paul D’Mello,2023-2024,regular,86.4,65.6,78.0,90.0
+198223,3.0,01-12-2023,0,0,hobbies,none,school,Simon Gomes,2023-2024,regular,93.8,75.2,84.5,90.0
+198224,2.0,01-05-2022,7.45,1,others,none,school,Vikram Desai,2023-2024,regular,84.4,71.3,84.5,90.0
+198225,1.0,01-12-2020,8.94,1,sports,played inter school cricket match(under 12),school,Meera Patel,2023-2024,regular,88.2,90.8,96.4,90.0
+198226,1.0,01-12-2023,0,0,games,--,school,Pooja Desai,2023-2024,regular,90.2,60.5,81.5,90.0
+198227,1.0,01-12-2023,6.47,1,cultural,--,school,Neha Iyer,2023-2024,regular,88.6,72.7,83.4,90.0
+198228,1.0,01-12-2023,7.33,1,hobbies,--,school,Rajesh Mehta,2023-2024,regular,97.8,83.3,78.4,90.0
+198229,1.0,01-12-2023,7.44,1,others,--,school,Thomas Castro,2023-2024,regular,90.8,64.6,80.9,90.0
+198230,1.0,01-12-2023,10,1,games,2nd rank in techfest organised in college,school,Manish Agarwal,2023-2024,regular,75.6,72.5,94.6,90.0
+198231,1.0,01-12-2023,8.36,1,others,came in the merit list of middle school scholarship examination and higher school scholarship examination.,state,Margaret D’Costa,2023-2024,regular,82.2,58.3,75.0,90.0
+198232,1.0,01-12-2023,0,0,sports,none,school,Anthony Almeida,2023-2024,regular,87.0,59.3,75.3,90.0
+198233,1.0,01-12-2023,8.11,1,games,none,school,Michael Menezes,2023-2024,regular,74.1,55.0,75.1,90.0
+198234,2.0,01-05-2022,8.2,1,cultural,none,school,Anne D'Souza,2023-2024,regular,90.2,71.7,91.7,90.0
+198235,1.0,01-12-2023,8.31,1,hobbies,none,school,Pooja Sharma,2023-2024,regular,82.4,64.6,79.0,90.0
+198236,1.0,01-12-2020,8.64,1,others,none,school,Mary Coelho,2023-2024,regular,86.6,74.0,91.5,90.0
+198237,1.0,01-12-2023,6.97,1,sports,chess,district,Thomas Dias,2023-2024,regular,96.6,73.3,92.0,90.0
+198238,1.0,01-12-2023,6.67,1,sports,football,school,Kiran Nair,2023-2024,regular,95.0,90.1,95.5,90.0
+198239,1.0,01-12-2023,8.39,1,games,cricket,district,Junaid Qureshi,2023-2024,regular,88.0,73.0,96.5,90.0
+198240,1.0,01-12-2023,6.44,1,others,national environment talent search exam (netse) third prize,national,David Almeida,2023-2024,regular,94.8,87.0,97.8,90.0
+198241,1.0,01-12-2023,8.33,1,others,"middleschool scolarship,highschool scholarship",state,Priya Trivedi,2023-2024,regular,77.0,62.6,78.4,90.0
+198242,1.0,01-12-2023,8.67,1,sports,"cricket,long jump",school,Rohit Bansal,2023-2024,regular,96.0,66.5,73.4,90.0
+198243,1.0,01-12-2023,8.17,1,sports,gymnastics and rope malkhamb,district,Lucas Fernandes,2023-2024,regular,58.6,62.8,87.4,90.0
+198244,1.0,01-12-2023,7.58,1,hobbies,drawing and painting,school,Priya Malhotra,2023-2024,regular,91.4,69.3,86.3,90.0
+198245,2.0,01-05-2022,6.93,1,sports,athletics,school,Rajesh Sharma,2023-2024,regular,74.2,68.3,79.7,90.0
+198246,1.0,01-12-2023,7.47,1,others,115 rank in ipm,national,Lucas Dias,2023-2024,regular,82.8,78.5,72.6,90.0
+198247,1.0,01-12-2023,0,0,sports,athletics,school,Anne Lobo,2023-2024,regular,88.2,65.0,71.9,90.0
+198248,1.0,01-12-2023,8.61,1,hobbies,group dance at vasai kalakrida,district,Catherine Menezes,2023-2024,regular,92.8,79.0,89.7,90.0
+198249,1.0,01-12-2023,9.06,1,others,115 rank in ipm,national,Peter Machado,2023-2024,regular,92.6,85.7,96.3,90.0
+198250,1.0,01-12-2023,0,0,sports,athletics,school,Kiran Choudhary,2023-2024,regular,93.6,73.2,91.2,90.0
+198251,2.0,01-05-2022,6.98,1,hobbies,group dance at vasai kalakrida,district,David Fernandes,2023-2024,regular,91.8,66.5,79.8,90.0
+198252,2.0,01-05-2022,0,0,others,115 rank in ipm,national,Varun Verma,2023-2024,regular,76.0,53.5,46.8,90.0
+198253,1.0,01-12-2023,8.78,1,sports,athletics,school,Varun Kulkarni,2023-2024,regular,83.8,82.5,93.8,90.0
+198254,2.0,01-05-2022,7.8,1,hobbies,group dance at vasai kalakrida,district,Nikita Mehta,2023-2024,regular,94.0,73.7,56.7,90.0
+198255,1.0,01-12-2017,0,\n,others,115 rank in ipm,national,Daniel Fernandes,2023-2024,regular,94.8,83.0,93.8,90.0
+198256,2.0,01-05-2022,9.8,1,sports,1st price in cricket tournamentsilver medal in long jump,school,Elizabeth Menezes,2023-2024,regular,98.0,86.8,94.6,90.0
+198257,2.0,01-05-2022,9.2,1,cultural,hind classical music,school,Rajesh Desai,2023-2024,regular,92.4,63.1,94.8,90.0
+198258,2.0,01-05-2022,8.75,1,hobbies,"badminton, throwball, swimming",school,Stephen Machado,2023-2024,regular,80.0,51.3,75.3,90.0
+198259,2.0,01-05-2022,7.45,1,sports,kabaddi,school,Catherine Fernandes,2023-2024,regular,80.0,64.0,67.0,90.0
+198260,2.0,01-05-2022,7.7,1,games,cricket,school,Sneha Patel,2023-2024,regular,95.4,84.4,86.3,90.0
+198261,1.0,01-12-2017,0,0,games,cricket,school,Zara Mirza,2023-2024,regular,83.5,68.3,87.6,90.0
+198262,1.0,01-12-2017,0,0,games,cricket,school,Sanjay Choudhary,2023-2024,regular,91.2,60.8,95.1,90.0
+198263,2.0,01-05-2022,9.05,1,games,cricket,school,Rohit Desai,2023-2024,regular,89.0,54.5,72.4,90.0
+198264,1.0,01-12-2017,0,0,games,cricket,school,Pooja Bhatt,2023-2024,regular,93.7,70.2,91.1,90.0
+198265,2.0,01-05-2022,8.5,1,games,cricket,school,Elizabeth Lobo,2023-2024,regular,94.6,76.8,84.1,90.0
+198266,2.0,01-05-2022,8.4,1,games,cricket,school,Mary Fernandes,2023-2024,regular,90.6,65.5,73.0,90.0
+198267,2.0,01-05-2022,7.3,1,games,cricket,school,Deepak Sharma,2023-2024,regular,86.2,71.0,90.1,90.0
+198268,2.0,01-05-2022,7.8,1,games,cricket,school,Neha Sharma,2023-2024,regular,75.6,57.8,43.0,90.0
+198269,1.0,01-12-2023,6.42,1,cultural,drama,school,Mary Almeida,2023-2024,regular,80.4,57.2,86.1,90.0
+198270,2.0,01-05-2022,7.45,1,sports,football,school,Stephen Pereira,2023-2024,regular,90.5,88.2,95.9,90.0
+198271,4.0,01-05-2023,0,0,sports,football ,school,Meera Nair,2023-2024,regular,86.0,71.2,76.6,90.0
+198272,4.0,01-05-2023,0,0,games,8 ball pool,school,Meera Joshi,2023-2024,regular,97.2,66.3,90.2,90.0
+198273,4.0,01-05-2023,0,0,cultural,no,school,Meera Patel,2023-2024,regular,79.8,75.8,67.7,90.0
+198274,2.0,01-05-2022,8.88,1,hobbies,playing games,school,Anjali Bhatt,2023-2024,regular,82.6,65.3,75.0,90.0
+198275,1.0,01-12-2023,0,0,others,no,school,Rehan Syed,2023-2024,regular,69.6,60.3,77.0,90.0
+198276,5.0,01-12-2022,0,0,games,cricket,school,Vikram Malhotra,2023-2024,regular,78.8,74.4,90.9,90.0
+198277,1.0,01-12-2023,0,0,hobbies,reading books,school,Amit Bhatt,2023-2024,regular,88.8,78.2,85.9,90.0
+198278,2.0,01-05-2022,8.13,1,sports,cricket football,school,Michael Monteiro,2023-2024,regular,93.8,82.3,96.6,90.0
+198279,1.0,01-12-2023,0,0,games,chess,school,Pooja Desai,2023-2024,regular,93.4,66.7,86.9,90.0
+198280,4.0,01-05-2023,0,0,hobbies,swimming,school,Rajesh Bansal,2023-2024,regular,92.8,60.8,68.9,90.0
+198281,4.0,01-05-2023,0,0,sports,cricket football,school,Margaret Lobo,2023-2024,regular,85.0,65.8,75.1,90.0
+198282,1.0,01-12-2023,0,0,games,chess,school,Aarav Bansal,2023-2024,regular,90.8,65.7,92.3,90.0
+198283,2.0,01-05-2022,7.15,1,hobbies,swimming,school,Sana Wahid,2023-2024,regular,94.8,68.5,78.4,90.0
+198284,2.0,01-05-2022,0,0,sports,football,school,Anthony Sequeira,2023-2024,regular,83.8,70.3,97.9,90.0
+198285,1.0,01-12-2023,0,0,sports,karate ,school,Peter Rodrigues,2023-2024,regular,73.8,55.6,56.7,90.0
+198286,1.0,01-12-2023,8.81,1,games,carrom,school,Paul Almeida,2023-2024,regular,97.6,84.7,79.7,90.0
+198287,1.0,01-12-2023,9.64,1,hobbies,music,school,Elizabeth D’Mello,2023-2024,regular,95.0,75.7,83.3,90.0
+198288,1.0,01-12-2023,6.61,1,cultural,singing,school,Neha Trivedi,2023-2024,regular,83.2,82.8,96.2,90.0
+198289,1.0,01-12-2023,0,0,sports,i got 2 medals and 3 trophy in cricket .i got 1 certificate in football tournament ,district,Sanjay Sharma,2023-2024,regular,93.0,67.8,92.1,90.0
+198290,1.0,01-12-2023,7.75,1,games,"cricket, football, batminton ",school,Nadia Baig,2023-2024,regular,78.8,58.3,87.7,90.0
+198291,1.0,01-12-2023,8.86,1,cultural,i got 1 certificate for drama series . ,school,Nikita Desai,2023-2024,regular,93.4,63.8,81.5,90.0
+198292,1.0,01-12-2023,0,0,hobbies,i like to read books more specificly novels and thriller story . i like to play outdoor game ,school,Rohit Malhotra,2023-2024,regular,81.4,63.1,78.0,90.0
+198293,1.0,01-12-2023,7.67,1,sports,"football, table tennis",school,Teresa Sequeira,2023-2024,regular,95.8,69.5,96.7,90.0
+198294,1.0,01-12-2023,7.61,1,games,football,school,Anne Monteiro,2023-2024,regular,84.4,68.5,73.6,90.0
+198295,1.0,01-12-2023,7.36,1,cultural,"drama, dance",school,Simon Rodrigues,2023-2024,regular,91.7,66.3,76.8,90.0
+198296,1.0,01-12-2023,7.08,1,hobbies,"football, swimming",school,Farhan Shaikh,2023-2024,regular,90.6,90.0,82.4,90.0
+198297,2.0,01-05-2022,7.8,1,sports,"football, table tennis",school,Thomas Carvalho,2023-2024,regular,82.8,73.7,91.0,90.0
+198298,1.0,01-12-2023,0,0,games,football,school,Sanjay Kulkarni,2023-2024,regular,82.2,63.7,88.0,90.0
+198299,1.0,01-12-2023,7.33,1,cultural,"drama, dance",school,Sneha Iyer,2023-2024,regular,77.8,55.5,86.0,90.0
+198300,1.0,01-12-2022,7.25,1,hobbies,"football, swimming",school,Kiran Bhatt,2023-2024,regular,77.0,69.0,78.1,90.0
+198301,1.0,01-12-2022,8.94,1,others,leadership training,school,Anjali Malhotra,2023-2024,regular,94.6,96.0,98.8,90.0
+198302,2.0,01-05-2022,9.35,1,sports,"football, table tennis",school,Priya Patel,2023-2024,regular,91.6,73.0,88.0,90.0
+198303,1.0,01-12-2023,8.28,1,games,football,school,Michael Dias,2023-2024,regular,93.5,67.3,63.7,90.0
+198304,2.0,01-05-2022,9.2,1,cultural,"drama, dance",school,Teresa Machado,2023-2024,regular,87.4,62.0,62.5,90.0
+198305,5.0,01-12-2022,0,0,hobbies,"football, swimming",school,Kiran Malhotra,2023-2024,regular,78.0,57.3,76.0,90.0
+198306,2.0,01-05-2022,8.9,1,others,leadership training,school,Sneha Iyer,2023-2024,regular,88.4,72.3,80.2,90.0
+198307,2.0,01-05-2022,9.15,1,sports,"football, table tennis",school,Meera Agarwal,2023-2024,regular,88.2,70.1,73.4,90.0
+198308,1.0,01-12-2021,9.22,1,games,football,school,Joseph Noronha,2023-2024,regular,89.5,69.2,55.9,90.0
+198309,1.0,01-12-2021,9.78,1,cultural,"drama, dance",school,Meera Nair,2023-2024,regular,87.3,66.3,74.1,90.0
+198310,1.0,01-12-2023,7.69,1,hobbies,"football, swimming",school,Thomas D’Costa,2023-2024,regular,94.0,80.0,94.9,90.0
+198311,1.0,01-12-2021,9.39,1,others,leadership training,school,Anjali Agarwal,2023-2024,regular,94.0,79.0,81.0,90.0
+198312,1.0,01-12-2021,9.67,1,sports,"football, table tennis",school,Simon Coelho,2023-2024,regular,94.4,67.0,81.0,90.0
+198313,1.0,01-12-2021,7.33,1,games,football,school,Rajesh Patel,2023-2024,regular,85.7,68.0,79.8,90.0
+198314,1.0,01-12-2023,0,0,cultural,"drama, dance",school,Rajesh Mehta,2023-2024,regular,89.8,70.8,83.2,90.0
+198315,2.0,01-05-2022,7.95,1,hobbies,"football, swimming",school,Michael Machado,2023-2024,regular,79.4,60.0,73.4,90.0
+198316,1.0,01-12-2021,9.72,1,others,leadership training,school,Kavita Pandey,2023-2024,regular,79.3,60.5,84.9,90.0
+198317,1.0,01-12-2021,9.31,1,sports,"football, table tennis",school,Imran Siddiqui,2023-2024,regular,83.0,68.1,83.3,90.0
+198318,1.0,01-12-2023,6.56,1,games,football,school,Paul Castro,2023-2024,regular,87.0,83.8,96.8,90.0
+198319,1.0,01-12-2021,9.17,1,cultural,"drama, dance",school,Elizabeth Noronha,2023-2024,regular,93.6,89.7,97.6,90.0
+198320,1.0,01-12-2021,9.67,1,hobbies,"football, swimming",school,Christopher D'Souza,2023-2024,regular,95.4,88.5,97.3,90.0
+198321,2.0,01-05-2022,10,1,others,leadership training,school,Michael Coelho,2023-2024,regular,88.2,84.5,96.5,90.0
+198322,1.0,01-12-2023,8.56,1,sports,"football, table tennis",school,Khalid Kazmi,2023-2024,regular,82.0,74.0,69.0,90.0
+198323,1.0,01-12-2023,10,1,games,football,school,Daniel Noronha,2023-2024,regular,98.0,82.8,96.3,90.0
+198324,1.0,01-12-2023,9.78,1,cultural,"drama, dance",school,Rahul Trivedi,2023-2024,regular,84.4,58.0,69.7,90.0
+198325,1.0,01-12-2023,9.11,1,hobbies,"football, swimming",school,Margaret Carvalho,2023-2024,regular,95.4,71.3,89.8,90.0
+198326,1.0,01-12-2023,0,0,others,leadership training,school,Pooja Kulkarni,2023-2024,regular,94.0,75.3,95.4,90.0
+198327,1.0,01-12-2023,9.06,1,sports,"football, table tennis",school,Christopher Dias,2023-2024,regular,87.2,63.5,78.4,90.0
+198328,1.0,01-12-2023,0,0,games,football,school,Kiran Sharma,2023-2024,regular,81.8,69.6,84.0,90.0
+198329,1.0,01-12-2023,7.83,1,cultural,"drama, dance",school,Meera Mehta,2023-2024,regular,77.8,73.3,88.9,90.0
+198330,1.0,01-12-2023,7.53,1,hobbies,"football, swimming",school,Christopher Rodrigues,2023-2024,regular,92.4,63.5,88.8,90.0
+198331,1.0,01-12-2023,0,0,others,leadership training,school,Kavita Ghosh,2023-2024,regular,93.6,89.3,44.5,90.0
+198332,1.0,01-12-2023,8.78,1,sports,"football, table tennis",school,Catherine Rodrigues,2023-2024,regular,71.0,56.0,84.2,90.0
+198333,1.0,01-12-2021,9.61,1,games,football,school,Kavita Nair,2023-2024,regular,94.4,81.8,96.2,90.0
+198334,1.0,01-12-2021,9.61,1,cultural,"drama, dance",school,Amit Iyer,2023-2024,regular,91.8,75.0,77.4,90.0
+198335,1.0,01-12-2023,0,0,hobbies,"football, swimming",school,Rahul Chopra,2023-2024,regular,94.8,84.1,96.6,90.0
+198336,1.0,01-12-2021,9.67,1,others,leadership training,school,Anjali Nair,2023-2024,regular,86.4,66.1,84.3,90.0
+198337,1.0,01-12-2021,8.75,1,sports,"football, table tennis",school,Sameer Kazmi,2023-2024,regular,93.0,81.3,96.2,90.0
+198338,1.0,01-12-2021,9.67,1,games,football,school,Peter Noronha,2023-2024,regular,82.4,85.6,96.7,90.0
+198339,1.0,01-12-2021,9.22,1,cultural,"drama, dance",school,Catherine D'Souza,2023-2024,regular,84.6,64.3,76.3,90.0
+198340,2.0,01-05-2022,7.53,1,hobbies,"football, swimming",school,Amit Patel,2023-2024,regular,85.6,55.6,47.3,90.0
+198341,1.0,01-12-2021,8.78,1,others,leadership training,school,Vikram Bansal,2023-2024,regular,92.8,78.6,97.5,90.0
+198342,2.0,01-05-2022,8.1,1,sports,football,school,Manish Joshi,2023-2024,regular,86.8,74.2,69.2,90.0
+198343,1.0,01-12-2021,9.94,1,games,8 ball pool,school,Amit Kulkarni,2023-2024,regular,79.0,60.0,75.8,90.0
+198344,2.0,01-05-2022,9.55,1,cultural,no,school,Catherine Lobo,2023-2024,regular,91.1,75.8,76.6,90.0
+198345,1.0,01-12-2021,9.72,1,hobbies,playing,school,Bilal Wahid,2023-2024,regular,94.4,94.6,95.2,90.0
+198346,2.0,01-05-2022,8.68,1,others,no,school,Amit Choudhary,2023-2024,regular,80.8,66.5,95.9,90.0
+198347,1.0,01-12-2021,8.78,1,hobbies,art,school,Teresa D’Costa,2023-2024,regular,89.0,84.3,96.3,90.0
+198348,4.0,01-05-2024,5.46,1,sports,cricket,district,Mary Menezes,2023-2024,regular,89.8,74.3,94.6,90.0
+198349,1.0,01-12-2021,10,1,hobbies,"dance, acting",school,Kiran Nair,2023-2024,regular,81.8,64.7,93.5,90.0
+198350,2.0,01-05-2022,0,0,sports,batminton,district,Teresa Gomes,2023-2024,regular,84.6,69.0,81.9,90.0
+198351,4.0,01-05-2024,9.77,1,cultural,"singing, dancing, dramatics",school,Thomas Rodrigues,2023-2024,regular,78.8,66.8,91.0,90.0
+198352,1.0,01-12-2021,9.03,1,hobbies,"singing, dancing",school,Meera Sharma,2023-2024,regular,76.2,51.5,97.6,90.0
+198353,1.0,01-12-2022,6.83,1,sports,"singing, dancing",school,Nikita Sharma,2023-2024,regular,84.0,68.1,87.9,90.0
+198354,1.0,01-12-2022,8.17,1,games,"singing, dancing",school,Rohit Choudhary,2023-2024,regular,93.8,77.3,83.3,90.0
+198355,1.0,01-12-2022,0,0,cultural,"singing, dancing",school,Sanjay Kulkarni,2023-2024,regular,78.2,57.6,73.4,90.0
+198356,1.0,01-12-2021,9.92,1,hobbies,"singing, dancing",school,Margaret D’Costa,2023-2024,regular,90.2,58.6,84.2,90.0
+198357,1.0,01-12-2021,9.78,1,others,"singing, dancing",school,Anne Coelho,2023-2024,regular,82.8,60.1,86.2,90.0
+198358,1.0,01-12-2021,8.42,1,sports,#name?,school,David D’Costa,2023-2024,regular,80.6,60.3,86.8,90.0
+198359,1.0,01-12-2023,8.28,1,games,quarterfinalists at cs:go esl india tournament.,national,David Almeida,2023-2024,regular,92.2,68.6,34.1,90.0
+198360,1.0,01-12-2023,8.39,1,cultural,#name?,school,Imran Mirza,2023-2024,regular,85.2,72.1,85.1,90.0
+198361,1.0,01-12-2023,0,0,hobbies,#error!,school,Rehan Nawaz,2023-2024,regular,81.4,63.0,95.6,90.0
+198362,1.0,01-12-2023,6.56,1,sports,chess,school,Margaret D'Souza,2023-2024,regular,77.8,62.1,84.2,90.0
+198363,1.0,01-12-2023,8.89,1,games,running,district,Christopher D’Mello,2023-2024,regular,83.0,63.6,51.4,90.0
+198364,1.0,01-12-2023,7.44,1,hobbies,"chess,cricket",school,Anjali Reddy,2023-2024,regular,87.2,61.5,96.7,90.0
+198365,1.0,01-12-2023,8.33,1,sports,athletics,school,Rohit Bhatt,2023-2024,regular,92.4,60.3,74.8,90.0
+198366,1.0,01-12-2023,8.08,1,games,football,school,Farhan Chaudhry,2023-2024,regular,86.6,65.2,90.5,90.0
+198367,1.0,01-12-2023,7.19,1,cultural,elementary and intermediate drawing exam,state,Manish Nair,2023-2024,regular,77.6,64.5,76.0,90.0
+198368,1.0,01-12-2023,7.58,1,sports,played football for school,school,Priya Verma,2023-2024,regular,95.8,70.5,83.4,90.0
+198369,1.0,01-12-2023,9.67,1,hobbies,playing guitar.,school,Fatima Syed,2023-2024,regular,94.8,78.8,87.2,90.0
+198370,1.0,01-12-2023,8.83,1,games,chess,school,Khalid Nawaz,2023-2024,regular,81.4,65.6,75.2,90.0
+198371,1.0,01-12-2023,0,0,hobbies,"swimming, drawing",school,Teresa Menezes,2023-2024,regular,77.0,63.0,75.8,90.0
+198372,1.0,01-12-2023,8.72,1,others,exploring mobile apps and other useful computer applications,school,Rohit Trivedi,2023-2024,regular,95.8,79.5,90.2,90.0
+198373,1.0,01-12-2023,6.97,1,sports,cricket,school,Aarav Agarwal,2023-2024,regular,82.4,0.0,90.2,83.9
+198374,1.0,01-12-2023,7.78,1,sports,cricket,school,Anne Dias,2023-2024,regular,77.0,0.0,90.2,80.0
+198375,1.0,01-12-2023,8.56,1,sports,three legged race,school,Daniel D’Costa,2023-2024,regular,79.2,0.0,90.2,80.7
+198376,1.0,01-12-2023,6.06,1,sports,three legged race,school,Pooja Reddy,2023-2024,regular,87.0,0.0,90.2,88.0
+198377,1.0,01-12-2023,0,0,sports,karate,state,Simon Monteiro,2023-2024,regular,89.2,0.0,90.2,79.4
+198378,1.0,01-12-2023,0,0,games,football,school,Sara Siddiqui,2023-2024,regular,81.2,0.0,90.2,88.1
+198379,1.0,01-12-2023,6.42,1,sports,cricket,school,Sneha Iyer,2023-2024,regular,68.0,0.0,90.2,87.4
+198380,1.0,01-12-2023,7.67,1,sports,karate,school,Joseph Menezes,2023-2024,regular,85.4,0.0,90.2,80.6
+198381,1.0,01-12-2023,6.61,1,hobbies,dance,school,Stephen D’Costa,2023-2024,regular,90.5,0.0,90.2,87.8
+198382,1.0,01-12-2023,0,0,sports,volleyball,district,Sneha Reddy,2023-2024,regular,88.8,0.0,90.2,81.5
+198383,1.0,01-12-2023,7.28,1,cultural,"cookery, dance",school,Elizabeth Sequeira,2023-2024,regular,88.2,0.0,90.2,0.0
+198384,1.0,01-12-2023,6.44,1,sports,"cricket, badminton, swimming, running, throwball, basketball",district,Paul Dias,2023-2024,regular,84.6,0.0,90.2,79.0
+198385,1.0,01-12-2023,0,0,hobbies,"music, coding, reading, fitness",school,Kavita Desai,2024-2025,regular,87.5,65.33,88.50634,79.0
+198386,1.0,01-12-2023,9.11,1,hobbies,sketch making,school,Rehan Mustafa,2024-2025,regular,86.0,72.9,86.2,79.0
+198387,1.0,01-12-2023,7.83,1,sports,football,school,Sneha Choudhary,2024-2025,regular,94.2,82.67,83.75297,79.0
+198388,1.0,01-12-2023,9.47,1,sports,football ,school,Neha Agarwal,2024-2025,regular,88.4,78.8,68.1,79.0
+198389,1.0,01-12-2023,0,0,sports,football,school,Fatima Malik,2024-2025,regular,91.5,69.33,75.52471,79.0
+198390,4.0,01-05-2024,8.5,1,cultural,won 2 medals in world scholars cup,national,Margaret Sequeira,2024-2025,regular,88.2,78.83,93.871,79.0
+198391,1.0,01-12-2022,7.61,1,others,scholarships,state,Anthony Castro,2024-2025,regular,95.2,79.17,95.23627,79.0
+198392,1.0,01-12-2023,0,0,cultural,elementary and intermediate certificates,state,Rajesh Trivedi,2024-2025,regular,80.8,63.5,96.3,79.0
+198393,1.0,01-12-2023,7.28,1,sports,basketball,district,Sanjay Sharma,2024-2025,regular,70.2,52.8,96.5,79.0
+198394,1.0,01-12-2022,0,0,cultural,annual day,school,Michael Almeida,2024-2025,regular,92.0,72.17,80.27438,79.0
+198395,1.0,01-12-2022,6.36,1,hobbies,dance,school,Zara Khan,2024-2025,regular,86.4,78.67,82.88606,79.0
+198396,4.0,01-05-2022,0,0,others,elocution,school,Rohit Patel,2024-2025,regular,78.2,52.67,40.28483,79.0
+198397,1.0,01-12-2022,0,0,sports,basketball,district,Anjali Reddy,2024-2025,regular,80.2,69.5,86.3,79.0
+198398,2.0,01-12-2023,0,0,cultural,annual day,school,Elizabeth Menezes,2024-2025,regular,83.0,51.17,69.4684,79.0
+198399,5.0,01-12-2023,9.35,1,hobbies,dance,school,Kavita Joshi,2024-2025,regular,85.8,69.17,72.6,79.0
+198400,5.0,01-12-2023,9.35,1,others,elocution,school,Pooja Sharma,2024-2025,regular,92.8,85.83,89.0644,79.0
+198401,1.0,01-05-2022,9.17,1,sports,basketball,district,Sanjay Verma,2024-2025,regular,84.8,60.83,67.58,79.0
+198402,4.0,01-05-2023,0,0,cultural,annual day,school,Varun Malhotra,2024-2025,regular,97.2,74.5,92.09382,79.0
+198403,5.0,01-12-2023,9.35,1,hobbies,dance,school,Nadia Baig,2024-2025,regular,97.5,91.33,97.66,79.0
+198404,3.0,01-12-2022,6.43,1,others,elocution,school,Sanjay Choudhary,2024-2025,regular,91.4,72.0,77.8466,79.0
+198405,3.0,01-12-2022,6.7,1,sports,basketball,district,Sanjay Desai,2024-2025,regular,77.6,74.1,73.1,79.0
+198406,4.0,01-05-2023,0,0,cultural,annual day,school,Amit Bansal,2024-2025,regular,87.8,76.5,81.65883,79.0
+198407,4.0,01-05-2023,6.58,1,hobbies,dance,school,Priya Iyer,2024-2025,regular,88.0,74.0,69.0,79.0
+198408,4.0,01-05-2023,9.04,1,others,elocution,school,Sanjay Chopra,2024-2025,regular,95.16,80.83,85.45416,79.0
+198409,4.0,01-05-2023,0,0,games,football,school,Rajesh Malhotra,2024-2025,regular,76.0,63.5,76.8898,79.0
+198410,4.0,01-05-2023,0,0,cultural,interschool science exhibition,district,Paul Fernandes,2024-2025,regular,94.4,77.33,81.37389,79.0
+198411,4.0,01-05-2023,7.79,1,hobbies,singing,school,Manish Kulkarni,2024-2025,regular,89.0,59.33,42.87,79.0
+198412,4.0,01-05-2023,7.96,1,games,good at badminton cricket kabaddi ,school,Kavita Bhatt,2024-2025,regular,93.0,73.8,76.0,79.0
+198413,4.0,01-05-2023,6.63,1,hobbies,"like to read, play badminton, roller skating, sketching ",school,David D’Costa,2024-2025,regular,89.0,75.33,71.59657,79.0
+198414,4.0,01-05-2023,6.63,1,sports,cricket,school,Ramesh Patel,2024-2025,regular,92.4,66.33,74.97091,79.0
+198415,3.0,01-12-2023,8.61,1,games,carrom,school,Sneha Ghosh,2024-2025,regular,89.2,82.17,71.40382,79.0
+198416,4.0,01-12-2023,6.79,1,sports,cricket,district,Pooja Ghosh,2024-2025,regular,79.2,57.2,76.3,79.0
+198417,3.0,01-12-2023,8.96,1,games,volly ball,school,Sanjay Mehta,2024-2025,regular,80.2,56.5,73.44,79.0
+198418,1.0,01-12-2023,8.56,1,cultural,"drama, music",school,Sara Gul,2024-2025,regular,88.4,73.0,81.78,79.0
+198419,1.0,01-12-2023,8.83,1,hobbies,"reading, watching moovies",school,Manish Iyer,2024-2025,regular,83.8,84.8,97.9,79.0
+198420,1.0,01-12-2023,6.94,1,sports,basketball,district,Kavita Joshi,2024-2025,regular,84.4,74.83,89.28,79.0
+198421,1.0,01-12-2023,8.17,1,cultural,dramatics,school,Kavita Trivedi,2024-2025,regular,74.0,56.83,61.63,79.0
+198422,1.0,01-12-2023,9.28,1,hobbies,guitar,school,Aarav Reddy,2024-2025,regular,80.4,71.0,85.09,79.0
+198423,1.0,01-12-2023,6.22,1,sports,basketball,district,Rohit Reddy,2024-2025,regular,90.8,83.3,66.8,79.0
+198424,1.0,01-12-2023,0,0,cultural,dramatics,school,Pooja Patel,2024-2025,regular,92.8,75.67,96.21492,79.0
+198425,1.0,01-12-2023,6.89,1,hobbies,guitar,school,Aarav Bhatt,2024-2025,regular,77.1,61.3,73.8,79.0
+198426,1.0,01-12-2023,8.31,1,sports,basketball,district,Stephen Machado,2024-2025,regular,91.0,76.5,83.1,79.0
+198427,1.0,01-12-2023,6.83,1,cultural,dramatics,school,Christopher Pereira,2024-2025,regular,93.6,76.3,84.5,79.0
+198428,1.0,01-12-2023,5.83,1,hobbies,guitar,school,Priya Pandey,2024-2025,regular,79.2,65.5,82.9,79.0
+198429,1.0,01-12-2023,9.17,1,sports,basketball,district,Meera Ghosh,2024-2025,regular,83.6,74.0,75.6,79.0
+198430,1.0,01-12-2023,8.08,1,cultural,dramatics,school,Ramesh Desai,2024-2025,regular,75.8,56.2,79.8,79.0
+198431,1.0,01-12-2023,9.17,1,hobbies,guitar,school,Priya Mehta,2024-2025,regular,94.2,76.17,85.17,79.0
+198432,1.0,01-12-2023,6.83,1,sports,kabaddi,school,Rajesh Iyer,2024-2025,regular,88.8,79.8,80.5,79.0
+198433,1.0,01-12-2023,6.39,1,sports,cricket,district,Meera Verma,2024-2025,regular,89.0,58.3,72.5,79.0
+198434,3.0,01-12-2023,0,0,sports,"circket,kabaddi,vollyball",school,Sneha Patel,2024-2025,regular,88.67,67.83,83.0,79.0
+198435,3.0,01-12-2023,0,0,hobbies,playing outdoorgame,school,Anthony Gomes,2024-2025,regular,77.4,71.5,76.2,79.0
+198436,3.0,01-12-2023,0,0,sports,kabaddi,school,Rahul Reddy,2024-2025,regular,90.4,70.83,83.47004,79.0
+198437,3.0,01-12-2023,6.04,1,games,carrom,school,Joseph Fernandes,2024-2025,regular,84.2,83.0,88.4,79.0
+198438,3.0,01-12-2023,0,0,cultural,"role play,dance",school,Rahul Patel,2024-2025,regular,82.8,62.6,76.5,79.0
+198439,3.0,01-12-2023,5.61,1,hobbies,"reading inspirational books,learning new technical things",school,Daniel Castro,2024-2025,regular,86.4,76.0,67.8,79.0
+198440,3.0,01-12-2023,0,0,sports,no,school,Nikita Nair,2024-2025,regular,92.0,63.67,68.9053,79.0
+198441,1.0,01-12-2023,7.03,1,games,no,school,Vikram Chopra,2024-2025,regular,82.2,79.83,76.4789,79.0
+198442,1.0,01-12-2023,6.92,1,cultural,no,school,David Monteiro,2024-2025,regular,95.0,87.6,97.0,79.0
+198443,1.0,01-12-2023,0,0,hobbies,no,school,Elizabeth Pereira,2024-2025,regular,93.8,84.17,95.2,79.0
+198444,1.0,01-12-2023,7.03,1,others,no,school,Rohit Choudhary,2024-2025,regular,86.6,52.3,78.4,79.0
+198445,1.0,01-12-2023,8.44,1,sports,cricket,school,Nikita Bansal,2024-2025,regular,85.1,64.17,56.95,79.0
+198446,1.0,01-12-2023,8.06,1,games,cricket,school,Anjali Joshi,2024-2025,regular,85.0,56.0,86.52,79.0
+198447,1.0,01-12-2023,8.44,1,cultural,drama,school,John Fernandes,2024-2025,regular,73.4,65.5,76.4,79.0
+198448,1.0,01-12-2023,0,0,hobbies,playing,school,Anjali Desai,2024-2025,regular,80.57,83.4,95.88481,79.0
+198449,3.0,01-12-2023,9.35,1,hobbies,drawing grade examinations,state,Mary Fernandes,2024-2025,regular,75.1,60.17,78.0,79.0
+198450,1.0,01-12-2023,6.31,1,hobbies,drawing grade examinations,state,Zara Gul,2024-2025,regular,92.83,79.83,89.06443,79.0
+198451,1.0,01-12-2023,7.36,1,hobbies,drawing grade examinations,state,Anne Pereira,2024-2025,regular,82.2,77.33,80.27438,79.0
+198452,3.0,01-12-2023,8.35,1,sports,karate,district,David Fernandes,2024-2025,regular,88.66,82.0,96.35,79.0
+198453,3.0,01-12-2023,8.83,1,sports,basketball,school,David Castro,2024-2025,regular,93.4,93.4,94.06,79.0
+198454,1.0,01-12-2023,8.08,1,sports,short put- silver medal,school,Ramesh Chopra,2024-2025,regular,94.5,74.0,95.92,79.0
+198455,3.0,01-12-2023,9.65,1,sports,football,school,Sanjay Bansal,2024-2025,regular,81.2,75.83,93.007,79.0
+198456,3.0,01-12-2023,6.7,1,sports,cricket,school,Priya Mehta,2024-2025,regular,89.4,77.67,96.1,79.0
+198457,1.0,01-12-2023,8.14,1,games,chess,school,Sanjay Trivedi,2024-2025,regular,80.2,66.7,67.1,79.0
+198458,1.0,01-12-2023,0,0,sports,cricket,school,Anjali Desai,2024-2025,regular,89.2,89.5,96.2,79.0
+198459,3.0,01-12-2023,7.96,1,games,chess,school,Thomas Castro,2024-2025,regular,91.4,66.3,72.3,79.0
+198460,3.0,01-12-2023,0,0,sports,football,district,Rohit Bhatt,2024-2025,regular,83.6,65.8,76.0,79.0
+198461,3.0,01-12-2023,0,0,sports,cricket,school,Ayesha Mirza,2024-2025,regular,94.8,88.5,98.8,79.0
+198462,3.0,01-12-2023,6.17,1,sports,silambam martialarts 3rd prize winner,national,Anjali Pandey,2024-2025,regular,90.6,79.5,86.13,79.0
+198463,1.0,01-12-2023,0,0,hobbies,drawing ,school,Michael Pereira,2024-2025,regular,87.6,62.6,80.58967,79.0
+198464,1.0,01-12-2023,0,0,others,art and craft,school,Fatima Tariq,2024-2025,regular,96.8,67.3,69.8,79.0
+198465,1.0,01-12-2023,7.03,1,games,chess,school,Imran Malik,2024-2025,regular,90.0,71.17,92.53682,79.0
+198466,1.0,01-12-2023,7.89,1,sports,footballchess,district,Neha Patel,2024-2025,regular,69.6,62.1,74.9,79.0
+198467,1.0,01-12-2023,0,0,cultural,elocutiondrama,school,Ramesh Saxena,2024-2025,regular,88.4,67.7,91.2,79.0
+198468,1.0,01-12-2023,8.11,1,hobbies,"languages like french, c  , java",school,Rahul Reddy,2024-2025,regular,81.4,59.3,77.7,79.0
+198469,1.0,01-12-2023,7.5,1,others,dance,school,Anjali Malhotra,2024-2025,regular,94.4,82.2,84.8,79.0
+198470,1.0,01-12-2023,0,0,games,athletic,school,Christopher Almeida,2024-2025,regular,91.8,67.67,68.178,79.0
+198471,1.0,01-12-2023,0,0,cultural,dance,school,Lucas Dias,2024-2025,regular,91.4,79.5,84.59,79.0
+198472,1.0,01-12-2023,6.19,1,games,chess,school,Mary Lobo,2024-2025,regular,76.8,58.5,78.1,79.0
+198473,1.0,01-12-2023,8.44,1,games,chess,school,Varun Sharma,2024-2025,regular,87.2,64.0,71.4,79.0
+198474,1.0,01-12-2023,8.69,1,sports,volleyball,district,Manish Choudhary,2024-2025,regular,95.8,65.5,75.2,79.0
+198475,1.0,01-12-2023,6.86,1,games,chess,school,Joseph Rodrigues,2024-2025,regular,92.6,79.8,92.4,79.0
+198476,1.0,01-12-2023,7,1,sports,basketball,district,Junaid Chaudhry,2024-2025,regular,83.6,73.33,85.45568,79.0
+198477,1.0,01-12-2023,9.39,1,sports,foot ball,school,Francis D’Costa,2024-2025,regular,93.2,71.0,63.53,79.0
+198478,1.0,01-12-2023,9.17,1,others,intermediate grade drawing examination-grade-a,state,David Lobo,2024-2025,regular,82.6,60.5,82.5,79.0
+198479,3.0,01-12-2023,0,0,sports,basketball cricket,school,Sanjay Patel,2024-2025,regular,96.0,74.0,80.6,79.0
+198480,3.0,01-12-2023,0,0,sports,foot ball,school,Sana Shan,2024-2025,regular,88.0,73.5,80.0,79.0
+198481,3.0,01-12-2023,8.17,1,others,intermediate drawing examination,state,Sanjay Chopra,2024-2025,regular,94.8,79.8,71.7,79.0
+198482,3.0,01-12-2023,8.96,1,sports,relay,school,Amit Malhotra,2024-2025,regular,75.4,61.5,82.18789,79.0
+198483,3.0,01-12-2023,0,0,sports,football,school,Neha Choudhary,2024-2025,regular,76.0,52.67,55.87632,79.0
+198484,2.0,01-05-2021,9.15,1,hobbies,painting,district,Teresa Lobo,2024-2025,regular,84.4,66.5,66.8,79.0
+198485,3.0,01-12-2023,7.83,1,others,scout and guide,school,David Gomes,2024-2025,regular,79.8,74.1,76.8,79.0
+198486,3.0,01-12-2023,9.04,1,sports,badminton player,district,Lucas Menezes,2024-2025,regular,92.2,89.17,95.71986,79.0
+198487,3.0,01-12-2023,7.17,1,cultural,dance,school,Meera Saxena,2024-2025,regular,91.8,58.5,87.15648,79.0
+198488,2.0,01-05-2022,8.73,1,hobbies,playing badminton and reading books,school,Vikram Trivedi,2024-2025,regular,89.8,74.5,88.44261,79.0
+198489,2.0,01-05-2022,7.3,1,sports,long jump,state,David Carvalho,2024-2025,regular,68.6,79.8,78.1,79.0
+198490,3.0,01-12-2023,7.39,1,hobbies,swimming ,school,Deepak Bhatt,2024-2025,regular,82.0,63.8,75.2,79.0
+198491,3.0,01-12-2023,7.09,1,others,electrical engineering,school,John Rodrigues,2024-2025,regular,80.4,83.17,94.78867,79.0
+198492,3.0,01-12-2023,0,0,sports,"hurdles, race",school,Neha Malhotra,2024-2025,regular,92.4,75.17,94.824,79.0
+198493,3.0,01-12-2023,7.65,1,hobbies,singing,state,Sameer Gul,2024-2025,regular,91.0,75.33,73.12374,79.0
+198494,2.0,01-05-2022,8.6,1,sports,"hurdles, race",school,Kiran Bansal,2024-2025,regular,91.8,76.0,90.3,79.0
+198495,2.0,01-05-2022,9.3,1,hobbies,singing,state,Khalid Mirza,2024-2025,regular,87.6,88.67,95.83738,79.0
+198496,2.0,01-05-2022,6.9,1,sports,football,district,Francis Fernandes,2024-2025,regular,81.6,69.8,96.9,79.0
+198497,2.0,01-05-2022,0,0,others,1st rank in debate competition,school,Peter Noronha,2024-2025,regular,82.4,52.67,86.89669,79.0
+198498,2.0,01-05-2022,9.05,1,others,1st rank in debate competition1st rank in quiz competition,school,Mary Pereira,2024-2025,regular,84.0,63.8,84.8,79.0
+198499,2.0,01-05-2022,8.4,1,others,1st in debate competition1st in quiz competition,school,Manish Choudhary,2024-2025,regular,83.66,65.5,85.45,79.0
+198500,2.0,01-05-2022,7.5,1,sports,no,school,Michael Dias,2024-2025,regular,78.0,52.67,60.3,79.0
+198501,3.0,01-12-2023,9.61,1,games,no,school,Aarav Sharma,2024-2025,regular,90.0,67.33,79.52903,79.0
+198502,2.0,01-05-2022,8.18,1,cultural,no,school,Anjali Malhotra,2024-2025,regular,90.2,75.83,92.66,79.0
+198503,2.0,01-05-2022,8.13,1,hobbies,"reading,swimming, spirituals discources",school,Elizabeth Fernandes,2024-2025,regular,83.6,87.5,96.23072,79.0
+198504,2.0,01-05-2022,8,1,others,no,school,David Carvalho,2024-2025,regular,79.2,75.33,94.69038,79.0
+198505,2.0,01-05-2022,7.7,1,sports,"table tennis , carrom , footballl achievements",school,Varun Reddy,2024-2025,regular,83.4,88.33,94.95202,79.0
+198506,2.0,01-05-2022,0,0,sports,football,school,Anjali Pandey,2024-2025,regular,82.0,63.5,69.81403,79.0
+198507,3.0,01-12-2023,0,0,games,chess ,school,Anthony Castro,2024-2025,regular,89.4,80.5,86.14,79.0
+198508,3.0,01-12-2023,6.26,1,cultural,elocution ,school,Sanjay Joshi,2024-2025,regular,83.2,50.5,75.8,79.0
+198509,3.0,01-12-2023,7.57,1,hobbies,cricket ,school,Stephen D’Mello,2024-2025,regular,85.2,60.3,78.9,79.0
+198510,2.0,01-05-2022,9.9,1,hobbies,"dancing,drawing",school,Varun Ghosh,2024-2025,regular,89.0,69.5,71.6,79.0
+198511,2.0,01-05-2022,6.15,1,games,chess,school,John Machado,2024-2025,regular,68.2,66.33,84.49414,79.0
+198512,2.0,01-05-2022,8.1,1,cultural,elocution,school,Lucas Almeida,2024-2025,regular,95.6,91.67,95.03,79.0
+198513,2.0,01-05-2022,8.55,1,sports,"cricket,football.",school,Peter Dias,2024-2025,regular,87.8,85.5,96.37387,79.0
+198514,2.0,01-05-2022,9.8,1,hobbies,"piano,music production.",school,Peter Fernandes,2024-2025,regular,84.2,71.33,95.99866,79.0
+198515,2.0,01-05-2022,9.33,1,sports,"football,karate",district,Sneha Patel,2024-2025,regular,73.8,53.3,71.5,79.0
+198516,2.0,01-05-2022,6.78,1,sports,football,school,Rahul Mehta,2024-2025,regular,83.33,74.67,88.0535,79.0
+198517,2.0,01-05-2022,7.18,1,games,badmintton,school,Catherine Rodrigues,2024-2025,regular,83.2,68.67,91.94929,79.0
+198518,2.0,01-05-2022,8.25,1,hobbies,guitar and music,school,Simon Carvalho,2024-2025,regular,93.8,90.5,95.18,79.0
+198519,2.0,01-05-2022,9.35,1,sports,"football,karate",district,Catherine Machado,2024-2025,regular,87.0,62.0,50.09576,79.0
+198520,3.0,01-12-2023,0,0,sports,football,school,Catherine Machado,2024-2025,regular,70.2,80.8,96.0,79.0
+198521,3.0,01-12-2023,8.65,1,games,athletics,school,Kiran Agarwal,2024-2025,regular,81.0,79.0,78.45,79.0
+198522,3.0,01-12-2023,8.26,1,hobbies,football,school,Elizabeth Pinto,2024-2025,regular,91.0,67.7,78.9,79.0
+198523,3.0,01-12-2023,7.39,1,sports,football,school,Rahul Trivedi,2024-2025,regular,90.6,85.17,82.709,79.0
+198524,3.0,01-12-2023,6.65,1,sports,football,school,Varun Iyer,2024-2025,regular,88.4,76.5,73.5,79.0
+198525,3.0,01-12-2023,7.7,1,sports,football,school,Stephen Carvalho,2024-2025,regular,60.8,53.1,72.6,79.0
+198526,3.0,01-12-2023,9.13,1,sports,"running,relay",district,John Dias,2024-2025,regular,89.0,57.0,82.0,79.0
+198527,3.0,01-12-2023,7.17,1,hobbies,drawing,school,Pooja Verma,2024-2025,regular,87.6,83.5,95.29215,79.0
+198528,3.0,01-12-2023,7.09,1,sports,karate,state,Catherine D’Mello,2024-2025,regular,93.8,91.0,96.56482,79.0
+198529,3.0,01-12-2023,8.78,1,games,running,school,Michael Menezes,2024-2025,regular,93.4,81.67,94.95202,79.0
+198530,3.0,01-12-2023,6.22,1,sports,taekwondo,district,Rashid Baig,2024-2025,regular,83.4,71.3,78.2,79.0
+198531,3.0,01-12-2023,7.22,rs1,games,cricket,school,David Gomes,2024-2025,regular,92.8,78.83,96.38449,79.0
+198532,3.0,01-12-2023,0,0,hobbies,playing cricket ,district,Christopher D'Souza,2024-2025,regular,84.8,62.0,74.3,79.0
+198533,3.0,01-12-2023,7.13,1,hobbies,playing cricket ,school,Catherine Noronha,2024-2025,regular,83.0,68.33,18.55747,79.0
+198534,3.0,01-12-2023,7.96,1,sports,hockey,school,Anne Pereira,2024-2025,regular,93.8,72.33,77.82,79.0
+198535,3.0,01-12-2023,9.22,1,hobbies,dance,school,Daniel Lobo,2024-2025,regular,82.0,89.17,89.92,79.0
+198536,3.0,01-12-2023,7.52,1,sports,badminton,school,Rohit Malhotra,2024-2025,regular,76.2,68.5,91.6,79.0
+198537,3.0,01-12-2023,7.65,"rs1 , 2",sports,karate silver medalist in local levels,school,Nikita Patel,2024-2025,regular,86.2,76.17,88.11403,79.0
+198538,3.0,01-12-2023,9.35,1,games,played kabaddi at school levels,school,Thomas Fernandes,2024-2025,regular,75.0,57.0,34.8,79.0
+198539,3.0,01-12-2023,8.04,1,hobbies,"drawing,football",school,Amit Verma,2024-2025,regular,97.2,86.7,96.9,79.0
+198540,3.0,01-12-2023,8.83,1,sports,handball,district,Teresa Noronha,2024-2025,regular,87.4,66.0,82.70992,79.0
+198541,3.0,01-12-2023,0,0,sports,cricket ,state,Nikita Nair,2024-2025,regular,81.4,83.17,96.17,79.0
+198542,3.0,01-12-2023,9.87,1,hobbies,to help poor people,national,Catherine D’Costa,2024-2025,regular,92.8,83.0,92.8,79.0
+198543,3.0,01-12-2023,6.83,"rs1 , 2",games,chess,school,Rohit Ghosh,2024-2025,regular,74.6,73.33,97.46,79.0
+198544,3.0,01-12-2023,0,0,cultural,dancing,school,Thomas Monteiro,2024-2025,regular,80.4,62.67,62.9,79.0
+198545,3.0,01-12-2023,7.87,1,hobbies,singing,state,Mary Fernandes,2024-2025,regular,85.2,65.67,92.59,79.0
+198546,3.0,01-12-2023,6.39,rs2,others,mehendi,state,David Monteiro,2024-2025,regular,89.0,69.0,81.49,79.0
+198547,3.0,01-12-2023,7.52,1,sports,handball,district,Vikram Bhatt,2024-2025,regular,93.8,78.67,85.87729,79.0
+198548,3.0,01-12-2023,6.78,1,sports,handball,district,Margaret D'Souza,2024-2025,regular,86.4,89.83,95.50735,79.0
+198549,3.0,01-12-2023,0,0,games,chess,school,Teresa Pinto,2024-2025,regular,89.4,82.5,97.387,79.0
+198550,2.0,01-05-2021,8.05,1,cultural,dance,school,Manish Bhatt,2024-2025,regular,79.4,66.0,95.85,79.0
+198551,1.0,01-12-2022,6.89,1,hobbies,singing,district,Sanjay Saxena,2024-2025,regular,73.0,52.67,46.20846,79.0
+198552,1.0,01-12-2022,7.03,1,others,mehendi,district,Manish Trivedi,2024-2025,regular,88.2,74.0,69.0,79.0
+198553,3.0,01-12-2022,8.61,1,games,chess,school,Rahul Chopra,2024-2025,regular,77.8,60.3,77.8,79.0
+198554,3.0,01-12-2022,8.74,1,cultural,dance,school,Manish Kulkarni,2024-2025,regular,88.2,73.5,77.7,79.0
+198555,3.0,01-12-2022,7.26,1,hobbies,singing,district,Catherine D’Costa,2024-2025,regular,88.8,87.0,95.2,79.0
+198556,3.0,01-12-2022,9.74,1,others,mehendi,district,Francis Noronha,2024-2025,regular,91.2,84.83,56.95,79.0
+198557,3.0,01-12-2022,7.74,1,games,chess,school,Rehan Baig,2024-2025,regular,79.8,58.8,96.7,79.0
+198558,3.0,01-12-2022,7.61,1,cultural,dance,school,Ramesh Malhotra,2024-2025,regular,90.6,58.33,96.51,79.0
+198559,3.0,01-12-2022,7.3,1,hobbies,singing,district,Manish Iyer,2024-2025,regular,68.8,55.5,64.65,79.0
+198560,3.0,01-12-2022,9.91,1,others,mehendi,district,Vikram Saxena,2024-2025,regular,88.4,66.17,41.32,79.0
+198561,3.0,01-12-2022,9.74,1,sports,district level qualified in boxing and swimming both,district,Peter D'Souza,2024-2025,regular,87.8,76.33,96.32584,79.0
+198562,3.0,01-12-2022,9.22,1,hobbies,mixed martial arts,school,Neha Trivedi,2024-2025,regular,79.67,71.2,86.82,79.0
+198563,3.0,01-12-2022,7.87,1,sports,kho-kho,school,Anne Lobo,2024-2025,regular,76.2,58.0,76.59,79.0
+198564,3.0,01-12-2022,6.48,1,cultural,katthak completed 6 exams,school,Amit Verma,2024-2025,regular,88.6,79.5,89.1,79.0
+198565,3.0,01-12-2022,9.13,1,hobbies,plays violin ,school,Joseph D’Costa,2024-2025,regular,88.4,66.5,73.88,79.0
+198566,3.0,01-12-2022,9.04,1,hobbies,music,district,Bilal Baig,2024-2025,regular,94.2,78.8,88.8,79.0
+198567,3.0,01-12-2022,7.43,1,sports,football,school,Neha Desai,2024-2025,regular,89.2,78.5,76.5,79.0
+198568,3.0,01-12-2022,7.48,1,sports,squash player,school,Amit Trivedi,2024-2025,regular,88.0,70.0,93.2,79.0
+198569,3.0,01-12-2022,9.78,1,cultural,tabla player,school,Nikita Chopra,2024-2025,regular,83.2,68.3,75.2,79.0
+198570,3.0,01-12-2022,8.7,1,hobbies,listening music,school,Rajesh Kulkarni,2024-2025,regular,88.4,84.3,94.5,79.0
+198571,3.0,01-12-2022,6.52,1,sports,football,district,Amit Malhotra,2024-2025,regular,81.3,61.3,67.5,79.0
+198572,3.0,01-12-2022,7.48,1,sports,cricket,school,Manish Ghosh,2024-2025,regular,96.0,79.67,94.138,79.0
+198573,3.0,01-12-2022,6.48,1,games,no,school,Simon Coelho,2024-2025,regular,82.6,82.0,81.93,79.0
+198574,3.0,01-12-2022,8.13,1,cultural,tabla,school,Margaret Coelho,2024-2025,regular,82.59,65.83,90.43505,79.0
+198575,3.0,01-12-2022,7.65,1,hobbies,no,school,Rohit Saxena,2024-2025,regular,80.2,70.62,90.43505,88.75
+198576,3.0,01-12-2022,6.52,1,others,no,school,Deepak Saxena,2024-2025,regular,87.4,0.0,90.43505,85.6
+198577,3.0,01-12-2022,9.74,1,sports,soccer,school,Joseph D’Mello,2024-2025,regular,91.2,0.0,90.43505,85.6
+198578,3.0,01-12-2022,7.74,1,cultural,drumming ,school,Aarav Trivedi,2024-2025,regular,85.4,0.0,90.43505,84.06
+198579,3.0,01-12-2022,8.96,1,sports,cricket,school,Meera Verma,2024-2025,regular,81.4,0.0,90.43505,86.0
+198580,3.0,01-12-2022,8.43,1,cultural,tabla,school,Varun Saxena,2024-2025,regular,85.0,0.0,90.43505,88.74
+198581,3.0,01-12-2022,8.96,1,sports,cricket,school,Varun Reddy,2024-2025,regular,64.6,0.0,90.43505,89.83
+198582,3.0,01-12-2022,5.91,1,cultural,tabla,school,Sanjay Bansal,2024-2025,regular,93.2,0.0,90.43505,89.6
+198583,3.0,01-12-2022,7.43,1,hobbies,"dancing,drawing",school,Nadia Hussain,2024-2025,regular,76.6,0.0,90.43505,84.51
+198584,3.0,01-12-2022,7.96,1,sports,football,school,Joseph Dias,2024-2025,regular,86.2,0.0,90.43505,88.35
+198585,3.0,01-12-2022,8.83,1,hobbies,games ,school,Kavita Pandey,2024-2025,regular,86.8,0.0,90.43505,83.76
+198586,3.0,01-12-2022,6.35,1,sports,cricket,school,Joseph Lobo,2024-2025,regular,71.0,0.0,90.43505,89.94
+198587,3.0,01-12-2022,6.57,1,games,carrom,school,Sana Nawaz,2024-2025,regular,79.2,0.0,90.43505,83.7
+198588,4.0,01-12-2023,0,0,cultural,elocutiondramamonoact,district,Rahul Bhatt,2024-2025,regular,68.0,0.0,90.43505,83.77
+198589,4.0,01-12-2023,0,0,others,dance,school,Neha Iyer,2024-2025,regular,92.2,0.0,90.43505,85.08
+198590,4.0,01-12-2023,6.33,1,cultural,singing and dance and acting,school,Sanjay Sharma,2024-2025,regular,78.8,0.0,90.43505,86.17
+198591,4.0,01-12-2023,6.46,1,hobbies,"playing the guitar, ukulele and drums",school,Joseph Rodrigues,2024-2025,regular,90.8,0.0,90.43505,90.47
+198592,4.0,01-12-2023,5.75,1,hobbies,play guitar,school,Meera Agarwal,2024-2025,regular,90.2,0.0,90.43505,86.23
+198593,4.0,01-12-2023,5.67,1,sports,cricket,school,Daniel Dias,2024-2025,regular,87.8,0.0,90.43505,88.75
+198594,4.0,01-12-2023,5.21,1,hobbies,drawing,school,Amit Bhatt,2024-2025,regular,82.0,0.0,90.43505,92.0
+198595,4.0,01-12-2023,5.88,1,others,guitar,school,Kavita Kulkarni,2024-2025,regular,91.8,0.0,90.43505,88.86
+198596,4.0,01-12-2023,0,0,sports,football,school,Catherine Fernandes,2024-2025,regular,91.8,0.0,90.43505,88.86
+198597,4.0,01-12-2023,6.42,1,hobbies,karate,school,Nadia Syed,2024-2025,regular,91.8,0.0,90.43505,88.86
+198598,4.0,01-12-2023,6.29,1,others,band,school,Lucas Sequeira,2024-2025,regular,91.8,0.0,90.43505,88.86
+198599,4.0,01-12-2023,6.54,1,others,band,school,Simon Castro,2024-2025,regular,91.8,0.0,90.43505,88.86
+198600,1.0,01-12-2022,0,0,sports,cricket,school,Paul Sequeira,2024-2025,regular,91.8,0.0,90.43505,88.86
+198601,1.0,01-12-2022,7.64,1,sports,"volleyball,handball ",state,Rohit Desai,2024-2025,regular,91.8,0.0,90.43505,88.86
+198602,1.0,01-12-2022,7.39,1,games,high jump,district,Michael Pinto,2024-2025,regular,91.8,0.0,90.43505,88.86
+198603,1.0,01-12-2022,7.44,1,cultural,science skit,school,Simon Monteiro,2024-2025,regular,91.8,0.0,90.43505,88.86
+198604,1.0,01-12-2022,0,0,hobbies,"reading books,playing games",school,Rajesh Chopra,2024-2025,regular,91.8,0.0,90.43505,88.86
+198605,1.0,01-12-2022,8.22,1,others,love computer science and coding,national,Teresa Monteiro,2024-2025,regular,91.8,0.0,90.43505,88.86
+198606,1.0,01-12-2022,0,0,sports,none,school,Mary Castro,2024-2025,regular,91.8,0.0,90.43505,88.86
+198607,1.0,01-12-2022,5.39,1,games,none,school,Ayesha Qureshi,2024-2025,regular,91.8,0.0,90.43505,88.86
+198608,1.0,01-12-2022,0,0,cultural,none,school,Nikita Kulkarni,2024-2025,regular,91.8,0.0,90.43505,88.86
+198609,2.0,01-05-2022,0,0,hobbies,"listening songs, cycling ",school,Anjali Kulkarni,2024-2025,regular,91.8,0.0,90.43505,88.86
+198610,4.0,01-12-2023,6.63,1,sports,football,school,Christopher Sequeira,2024-2025,regular,91.8,0.0,90.43505,88.86
+198611,4.0,01-12-2023,5.83,1,games,none,school,Simon Coelho,2024-2025,regular,91.8,0.0,90.43505,88.86
+198612,4.0,01-12-2023,6.71,1,cultural,none,school,Anne Lobo,2024-2025,regular,91.8,0.0,90.43505,88.86
+198613,4.0,01-12-2023,6.42,1,hobbies,none,school,Rohit Kulkarni,2024-2025,regular,91.8,0.0,90.43505,88.86
+198614,4.0,01-12-2023,0,0,others,none,school,Margaret Sequeira,2024-2025,regular,91.8,0.0,90.43505,88.86
+198615,4.0,01-12-2023,5.75,1,sports,basketball,school,Kavita Patel,2024-2025,regular,91.8,0.0,90.43505,88.86
+198616,1.0,01-12-2022,6.5,1,cultural,dancing,school,Khalid Wahid,2024-2025,regular,91.8,0.0,90.43505,88.86
+198617,1.0,01-12-2022,0,0,hobbies,drawing,school,David Pereira,2024-2025,regular,91.8,0.0,90.43505,88.86
+198618,1.0,01-12-2022,7.61,1,sports,t-20 cricket tournament hosted by n.l. dalmia high school ,school,Anjali Iyer,2024-2025,regular,91.8,0.0,90.43505,88.86
+198619,1.0,01-12-2022,0,0,sports,hockey,district,Deepak Malhotra,2024-2025,regular,91.8,0.0,90.43505,88.86
+198620,1.0,01-12-2022,9.67,1,games,basketball,school,Manish Saxena,2024-2025,regular,91.8,0.0,90.43505,88.86
+198621,4.0,01-12-2023,0,0,cultural,singing,school,Margaret Fernandes,2024-2025,regular,91.8,0.0,90.43505,88.86
+198622,1.0,01-12-2022,0,0,hobbies,guitar,school,Peter Monteiro,2024-2025,regular,91.8,0.0,90.43505,88.86
+198623,1.0,01-12-2022,8.92,1,others,-,school,Kavita Kulkarni,2024-2025,regular,91.8,0.0,90.43505,88.86
+198624,1.0,01-12-2022,8.78,1,sports,carrom,school,Anjali Desai,2024-2025,regular,91.8,0.0,90.43505,88.86
+198625,1.0,01-12-2022,7.47,1,games,fencing ,district,Varun Ghosh,2024-2025,regular,91.8,0.0,90.43505,88.86
+198626,1.0,01-12-2022,7.08,1,cultural,dance,school,Meera Patel,2024-2025,regular,91.8,0.0,90.43505,88.86
+198627,1.0,01-12-2022,0,0,hobbies,dance,school,Anthony Carvalho,2024-2025,regular,91.8,0.0,90.43505,88.86
+198628,4.0,01-12-2023,6,1,others,painting ,school,Peter Noronha,2024-2025,regular,91.8,0.0,90.43505,88.86
+198629,4.0,01-12-2023,4.92,f,cultural,annual days,school,Peter Sequeira,2024-2025,regular,91.8,0.0,90.43505,88.86
+198630,4.0,01-12-2023,0,0,hobbies,dancing,school,Shabana Ansari,2024-2025,regular,91.8,0.0,90.43505,88.86
+198631,4.0,01-12-2023,0,0,sports,"throw ball,kabaddi",school,Farhan Khan,2024-2025,regular,91.8,0.0,90.43505,88.86
+198632,4.0,01-12-2023,0,0,others,martial arts,district,Ramesh Pandey,2024-2025,regular,91.8,0.0,90.43505,88.86
+198633,4.0,01-12-2023,7.63,1,sports,football,school,Deepak Agarwal,2024-2025,regular,91.8,0.0,90.43505,88.86
+198634,4.0,01-12-2023,7.67,1,cultural,dancing,school,Margaret Noronha,2024-2025,regular,91.8,0.0,90.43505,88.86
+198635,4.0,01-12-2023,5.63,1,cultural,dancing,school,Mary Menezes,2024-2025,regular,91.8,0.0,90.43505,88.86
+198636,1.0,01-12-2022,0,0,hobbies,"reading,watching movies,listening to music",school,Neha Iyer,2024-2025,regular,91.8,0.0,90.43505,88.86
+198637,1.0,01-12-2022,7.28,1,sports,cricket,school,Kiran Desai,2024-2025,regular,91.8,0.0,90.43505,88.86
+198638,1.0,01-12-2022,9.61,1,games,cricket,school,Imran Wahid,2024-2025,regular,91.8,0.0,90.43505,88.86
+198639,1.0,01-12-2022,7.17,1,cultural,drama,school,Kavita Iyer,2024-2025,regular,91.8,0.0,90.43505,88.86
+198640,1.0,01-12-2022,0,0,hobbies,reading,school,Zaid Kazmi,2024-2025,regular,91.8,0.0,90.43505,88.86
+198641,1.0,01-12-2022,6.39,1,others,abacus maths,state,Kiran Saxena,2024-2025,regular,91.8,0.0,90.43505,88.86
+198642,1.0,01-12-2022,8.67,1,hobbies,"reading,",school,Omar Khan,2024-2025,regular,91.8,0.0,90.43505,88.86
+198643,1.0,01-12-2022,0,0,hobbies,singing,school,David D’Costa,2024-2025,regular,91.8,0.0,90.43505,88.86
+198644,1.0,01-12-2022,0,0,sports,football,school,Joseph Pereira,2024-2025,regular,91.8,0.0,90.43505,88.86
+198645,1.0,01-12-2022,7.72,1,games,snooker,school,Daniel Fernandes,2024-2025,regular,91.8,0.0,90.43505,88.86
+198646,1.0,01-12-2022,8.25,1,cultural,drama,school,Khalid Shaikh,2024-2025,regular,91.8,0.0,90.43505,88.86
+198647,1.0,01-12-2022,7.08,1,sports,"volleyball (participated in 10th standard), represented school team(navy children school)participated in volleyball summer camps conducted by the indian navy thrice(won twice for best performance u-16)",school,Naseem Hussain,2024-2025,regular,91.8,0.0,90.43505,88.86
+198648,1.0,01-12-2022,0,0,sports,no,school,Stephen Almeida,2024-2025,regular,91.8,0.0,90.43505,88.86
+198649,1.0,01-12-2022,7.72,1,games,no,school,Anjali Ghosh,2024-2025,regular,91.8,0.0,90.43505,88.86
+198650,1.0,01-12-2022,9.11,1,cultural,no,school,Kavita Mehta,2024-2025,regular,91.8,0.0,90.43505,88.86
+198651,1.0,01-12-2022,7.39,1,hobbies,no,school,Anne Fernandes,2024-2025,regular,91.8,0.0,90.43505,88.86
+198652,1.0,01-12-2022,0,0,others,no,school,Manish Trivedi,2024-2025,regular,91.8,0.0,90.43505,88.86
+198653,3.0,01-05-2023,0,0,cultural,bharat natyam,school,Khalid Hussain,2024-2025,regular,91.8,0.0,90.43505,88.86
+198654,3.0,01-05-2023,6.3,1,hobbies,drawing and reading,school,Kiran Bhatt,2024-2025,regular,91.8,0.0,90.43505,88.86
+198655,1.0,01-12-2022,0,0,sports,no,school,Vikram Ghosh,2024-2025,regular,91.8,0.0,90.43505,88.86
+198656,1.0,01-12-2022,0,0,games,no,school,Francis Carvalho,2024-2025,regular,91.8,0.0,90.43505,88.86
+198657,1.0,01-12-2022,7.67,1,cultural,no,school,Kiran Trivedi,2024-2025,regular,91.8,0.0,90.43505,88.86
+198658,3.0,01-05-2023,0,0,hobbies,swimming,school,Manish Verma,2024-2025,regular,91.8,0.0,90.43505,88.86
+198659,3.0,01-05-2023,6.17,1,sports,table tennis sub junior boys quater finalists,district,Anthony Gomes,2024-2025,regular,91.8,0.0,90.43505,88.86
+198660,1.0,01-12-2022,8.17,1,games,table tennis participation,state,Pooja Malhotra,2024-2025,regular,91.8,0.0,90.43505,88.86
+198661,1.0,01-12-2022,8.06,1,games,chess,school,Meera Saxena,2024-2025,regular,91.8,0.0,90.43505,88.86
+198662,1.0,01-12-2022,0,0,sports,basketball ,school,Manish Kulkarni,2024-2025,regular,91.8,0.0,90.43505,88.86
+198663,1.0,01-12-2022,6.94,1,sports,swimming,state,Joseph Dias,2024-2025,regular,91.8,0.0,90.43505,88.86
+198664,3.0,01-05-2023,0,0,games,chess,district,Pooja Iyer,2024-2025,regular,91.8,0.0,90.43505,88.86
+198665,3.0,01-05-2023,0,0,sports,chess,school,Simon Machado,2024-2025,regular,91.8,0.0,90.43505,88.86
+198666,1.0,01-12-2022,0,0,sports,carrom competition (singles),school,Margaret Gomes,2024-2025,regular,91.8,0.0,90.43505,88.86
+198667,1.0,01-12-2022,7.44,1,games,chess competition,school,Teresa Sequeira,2024-2025,regular,91.8,0.0,90.43505,88.86
+198668,3.0,01-05-2023,0,0,hobbies,drawing and painting,school,Catherine Dias,2024-2025,regular,91.8,0.0,90.43505,88.86
+198669,3.0,01-05-2023,0,0,sports,volleyball,district,Catherine Gomes,2024-2025,regular,91.8,0.0,90.43505,88.86
+198670,3.0,01-05-2023,0,0,games,volleyball,district,Paul Lobo,2024-2025,regular,91.8,0.0,90.43505,88.86
+198671,3.0,01-05-2023,6.17,1,cultural,social service,school,Lucas D'Souza,2024-2025,regular,91.8,0.0,90.43505,88.86
+198672,3.0,01-05-2023,6.52,1,hobbies,"playing volleyball,football,cricket,table tenis",district,Mary D’Costa,2024-2025,regular,91.8,0.0,90.43505,88.86
+198673,1.0,01-12-2022,0,0,sports,"playing volleyball,football,cricket,table tenis",school,Neha Reddy,2024-2025,regular,91.8,0.0,90.43505,88.86
+198674,1.0,01-12-2022,0,0,games,"carrom competition (singles), chess competition",school,Christopher Carvalho,2024-2025,regular,91.8,0.0,90.43505,88.86
+198675,1.0,01-12-2022,7.89,1,hobbies,"drawing, painting and sketching",school,Sneha Kulkarni,2024-2025,regular,91.8,0.0,90.43505,88.86
+198676,1.0,01-12-2022,0,0,sports,participated in running competition and cricket matches,school,Daniel Almeida,2024-2025,regular,91.8,0.0,90.43505,88.86
+198677,1.0,01-12-2022,8.89,1,sports,kabaddi,school,John Pereira,2024-2025,regular,91.8,0.0,90.43505,88.86
+198678,1.0,01-12-2022,8.56,1,cultural,"dance,singing",school,Thomas Carvalho,2024-2025,regular,91.8,0.0,90.43505,88.86
+198679,1.0,01-12-2022,8.86,1,hobbies,painting,school,Nikita Bhatt,2024-2025,regular,91.8,0.0,90.43505,88.86
+198680,3.0,01-05-2023,6.04,1,games,shot put,school,Anne Noronha,2024-2025,regular,91.8,0.0,90.43505,88.86
+198681,3.0,01-05-2023,5.87,1,hobbies,drawing,school,Mary Gomes,2024-2025,regular,91.8,0.0,90.43505,88.86
+198682,3.0,01-05-2023,0,0,sports,football,school,Peter Sequeira,2024-2025,regular,91.8,0.0,90.43505,88.86
+198683,3.0,01-05-2023,0,0,cultural,dance,school,Stephen Rodrigues,2024-2025,regular,91.8,0.0,90.43505,88.86
+198684,1.0,01-12-2022,0,0,sports,football,school,Pooja Malhotra,2024-2025,regular,91.8,0.0,90.43505,88.86
+198685,1.0,01-12-2022,7,1,cultural,dance,school,Anne Noronha,2024-2025,regular,91.8,0.0,90.43505,88.86
+198686,1.0,01-12-2022,10,1,sports,"volleyball, throwball",district,Francis Lobo,2024-2025,regular,91.8,0.0,90.43505,88.86
+198687,1.0,01-12-2022,8.97,1,games,"volleyball,throwball",district,Rajesh Reddy,2024-2025,regular,91.8,0.0,90.43505,88.86
+198688,1.0,01-12-2022,0,0,cultural,social service,school,Paul Menezes,2024-2025,regular,91.8,0.0,90.43505,88.86
+198689,1.0,01-12-2022,7.61,1,hobbies,"playing volleyball,football,throwball,handball,cricket,table tenis,carom",school,Kavita Nair,2024-2025,regular,91.8,0.0,90.43505,88.86
+198690,1.0,01-12-2022,8.31,1,sports,"volleyball, throwball",district,Neha Reddy,2024-2025,regular,91.8,0.0,90.43505,88.86
+198691,1.0,01-12-2022,7.47,1,games,"volleyball,throwball",district,Shabana Chaudhry,2024-2025,regular,91.8,0.0,90.43505,88.86
+198692,1.0,01-12-2022,0,0,cultural,social service,school,Anne Machado,2024-2025,regular,91.8,0.0,90.43505,88.86
+198693,1.0,01-12-2022,0,0,hobbies,"playing volleyball,football,throwball,handball,cricket,table tenis,carom",school,Nikita Pandey,2024-2025,regular,91.8,0.0,90.43505,88.86
+198694,1.0,01-12-2022,6.69,1,others,paper presentation,state,Daniel Menezes,2024-2025,regular,91.8,0.0,90.43505,88.86
+198695,1.0,01-12-2022,9.22,1,games,running ,school,Amit Pandey,2024-2025,regular,91.8,0.0,90.43505,88.86
+198696,1.0,01-12-2022,0,0,hobbies,drawing ,school,Farhan Shaikh,2024-2025,regular,91.8,0.0,90.43505,88.86
+198697,1.0,01-12-2022,0,0,games,running ,school,Lucas D’Mello,2024-2025,regular,91.8,0.0,90.43505,88.86
+198698,5.0,01-12-2023,7.43,1,hobbies,drawing ,school,Vikram Kulkarni,2024-2025,regular,91.8,0.0,90.43505,88.86
+198699,4.0,01-05-2024,7.68,1,games,running ,school,Anne Almeida,2024-2025,regular,91.8,0.0,90.43505,88.86
+198700,4.0,01-05-2024,7.31,1,hobbies,drawing ,school,Peter Dias,2024-2025,regular,91.8,0.0,90.43505,88.86
+198701,4.0,01-05-2024,0,0,sports,kabbadi,school,Joseph Fernandes,2024-2025,regular,91.8,0.0,90.43505,88.86
+198702,3.0,01-12-2022,8.26,1,hobbies,drawing,school,Sneha Saxena,2024-2025,regular,91.8,0.0,90.43505,88.86
+198703,5.0,01-12-2023,0,0,sports,member of national scouts/ guides,national,Vikram Patel,2024-2025,regular,91.8,0.0,90.43505,88.86
+198704,4.0,01-05-2023,9.25,1,others,member of nss,school,Manish Pandey,2024-2025,regular,91.8,0.0,90.43505,88.86
+198705,4.0,01-05-2023,0,0,sports,member of national scouts/ guides,national,Rahul Saxena,2024-2025,regular,91.8,0.0,90.43505,88.86
+198706,4.0,01-05-2023,6.75,1,others,member of nss,school,Simon Pereira,2024-2025,regular,91.8,0.0,90.43505,88.86
+198707,4.0,01-05-2023,7.33,1,sports,badminton player,state,Varun Mehta,2024-2025,regular,91.8,0.0,90.43505,88.86
+198708,4.0,01-05-2023,0,0,hobbies,speedcubing,national,Rahul Desai,2024-2025,regular,91.8,0.0,90.43505,88.86
+198709,4.0,01-05-2023,0,0,sports,badminton player,state,Rajesh Sharma,2024-2025,regular,91.8,0.0,90.43505,88.86
+198710,4.0,01-05-2023,9.21,1,hobbies,speedcubing,national,Anthony Menezes,2024-2025,regular,91.8,0.0,90.43505,88.86
+198711,4.0,01-05-2023,10,1,sports,badminton player,state,Meera Saxena,2024-2025,regular,91.8,0.0,90.43505,88.86
+198712,4.0,01-05-2023,8.29,1,hobbies,speedcubing,national,Anthony Noronha,2024-2025,regular,91.8,0.0,90.43505,88.86
+198713,4.0,01-05-2023,9.63,1,others,project competition,state,Mary Menezes,2024-2025,regular,91.8,0.0,90.43505,88.86
+198714,4.0,01-05-2023,8.33,1,sports,"skating, athletics, ",school,Joseph Fernandes,2024-2025,regular,91.8,0.0,90.43505,88.86
+198715,4.0,01-05-2023,6.79,1,hobbies,cricket,school,Varun Ghosh,2024-2025,regular,91.8,0.0,90.43505,88.86
+198716,4.0,01-05-2023,9.5,1,sports,"skating, athletics, ",school,Mary Noronha,2024-2025,regular,91.8,0.0,90.43505,88.86
+198717,4.0,01-05-2023,6.71,1,hobbies,cricket,school,Yusuf Rehman,2024-2025,regular,91.8,0.0,90.43505,88.86
+198718,4.0,01-05-2023,0,0,sports,"skating, athletics, ",school,Sanjay Saxena,2024-2025,regular,91.8,0.0,90.43505,88.86
+198719,4.0,01-05-2023,7.75,1,hobbies,cricket,school,Mary Machado,2024-2025,regular,91.8,0.0,90.43505,88.86
+198720,4.0,01-05-2023,0,0,sports,"skating, athletics, ",school,Francis Pereira,2024-2025,regular,91.8,0.0,90.43505,88.86
+198721,4.0,01-05-2023,6.96,1,hobbies,cricket,school,Sneha Patel,2024-2025,regular,91.8,0.0,90.43505,88.86
+198722,4.0,01-05-2023,7.04,1,hobbies,playng piano ,national,Nikita Saxena,2024-2025,regular,91.8,0.0,90.43505,88.86
+198723,4.0,01-05-2023,7.75,1,others,singing,school,Aarav Bhatt,2024-2025,regular,91.8,0.0,90.43505,88.86
+198724,4.0,01-05-2023,9.73,1,sports,cricket,school,Rohit Saxena,2024-2025,regular,91.8,0.0,90.43505,88.86
+198725,4.0,01-05-2023,9.21,1,hobbies,cricket ,school,Vikram Saxena,2024-2025,regular,91.8,0.0,90.43505,88.86
+198726,4.0,01-05-2023,8.08,1,cultural,"music, guitar playing",school,Deepak Saxena,2024-2025,regular,91.8,0.0,90.43505,88.86
+198727,4.0,01-05-2023,6.54,1,sports,nil,school,Ramesh Agarwal,2024-2025,regular,91.8,0.0,90.43505,88.86
+198728,4.0,01-05-2023,7.79,1,games,nil,school,Anne Coelho,2024-2025,regular,91.8,0.0,90.43505,88.86
+198729,4.0,01-05-2023,8.5,1,cultural,nil,school,Simon Castro,2024-2025,regular,91.8,0.0,90.43505,88.86
+198730,4.0,01-05-2023,9.38,1,hobbies,nil,school,Christopher Pinto,2024-2025,regular,91.8,0.0,90.43505,88.86
+198731,4.0,01-05-2023,0,0,others,nil,school,Amit Joshi,2024-2025,regular,91.8,0.0,90.43505,88.86
+198732,4.0,01-05-2023,0,0,hobbies,playing keyboard and guitar,school,Anne Fernandes,2024-2025,regular,91.8,0.0,90.43505,88.86
+198733,4.0,01-05-2023,0,0,hobbies,arts,school,Stephen Menezes,2024-2025,regular,91.8,0.0,90.43505,88.86
+198734,4.0,01-05-2023,7.96,1,others,garba,school,Varun Ghosh,2024-2025,regular,91.8,0.0,90.43505,88.86
+198735,4.0,01-05-2023,7.79,1,sports,volley ball;cricket,school,Vikram Reddy,2024-2025,regular,91.8,0.0,90.43505,88.86
+198736,4.0,01-05-2023,8.08,1,games,playing- chess,school,Kavita Malhotra,2024-2025,regular,91.8,0.0,90.43505,88.86
+198737,4.0,01-05-2023,7.25,1,hobbies,hobbies are playing- chess; volleyball;table tennis;cricket,school,Elizabeth Pereira,2024-2025,regular,91.8,0.0,90.43505,88.86
+198738,4.0,01-05-2023,7.25,1,others,1st prize in technical quiz competition,state,Lucas Pinto,2024-2025,regular,91.8,0.0,90.43505,88.86
+198739,4.0,01-05-2023,0,0,hobbies,"guitar,singing",school,Deepak Verma,2024-2025,regular,91.8,0.0,90.43505,88.86
+198740,4.0,01-05-2023,7.67,1,cultural,"winner in paper presentation in pravin patil institute of technology,1st prize in paper presentation in vidyalankar institute of technology,winner in quiz in vasant dada patil institute of technology,winner in debate competition in babasaheb gawde institute of technology.",state,Francis Dias,2024-2025,regular,91.8,0.0,90.43505,88.86
+198741,4.0,01-05-2023,8.88,1,hobbies,debate,school,Deepak Iyer,2024-2025,regular,91.8,0.0,90.43505,88.86
+198742,4.0,01-05-2023,7.63,1,sports,football,school,Meera Ghosh,2024-2025,regular,91.8,0.0,90.43505,88.86
+198743,4.0,01-05-2023,6.96,1,sports,football,school,Sana Baig,2024-2025,regular,91.8,0.0,90.43505,88.86
+198744,4.0,01-05-2023,6.54,1,cultural,interschool dance competition ,school,Lucas Sequeira,2024-2025,regular,91.8,0.0,90.43505,88.86
+198745,4.0,01-05-2023,7.17,1,hobbies,intermediate grade drawing examination ,state,Vikram Kulkarni,2024-2025,regular,91.8,0.0,90.43505,88.86
+198746,4.0,01-05-2023,7.04,1,sports,"cycling, kabaddi",school,Teresa Machado,2024-2025,regular,91.8,0.0,90.43505,88.86
+198747,4.0,01-05-2023,8.5,1,games,"chess, carrom",school,Anne Carvalho,2024-2025,regular,91.8,0.0,90.43505,88.86
+198748,4.0,01-05-2023,7.08,1,hobbies,reading,school,Sneha Sharma,2024-2025,regular,91.8,0.0,90.43505,88.86
+198749,4.0,01-05-2023,5.83,1,sports,thang-ta ,national,Manish Agarwal,2024-2025,regular,91.8,0.0,90.43505,88.86
+198750,4.0,01-05-2023,8.38,1,games,taekwon-do,district,Rashid Malik,2024-2025,regular,91.8,0.0,90.43505,88.86
+198751,4.0,01-05-2023,7.96,1,cultural,thang-ta,national,Christopher Dias,2024-2025,regular,91.8,0.0,90.43505,88.86
+198752,4.0,01-05-2023,7.04,1,hobbies,cricket,state,Rahul Choudhary,2024-2025,regular,91.8,0.0,90.43505,88.86
+198753,4.0,01-05-2023,10,1,sports,bronze medal in 1st maharashtra state level karate championship 2007,state,Catherine Almeida,2024-2025,regular,91.8,0.0,90.43505,88.86
+198754,4.0,01-05-2023,7.04,1,sports,district level football,district,Anne Carvalho,2024-2025,regular,91.8,0.0,90.43505,88.86
+198755,4.0,01-05-2023,7.88,1,cultural,event organization,school,Lucas Almeida,2024-2025,regular,91.8,0.0,90.43505,88.86
+198756,4.0,01-05-2023,7.29,1,others,organization of events and college festival ,school,Ramesh Verma,2024-2025,regular,91.8,0.0,90.43505,88.86
+198757,4.0,01-05-2023,8.42,1,cultural,dance,school,Fatima Gul,2024-2025,regular,91.8,0.0,90.43505,88.86
+198758,4.0,01-05-2023,6.58,1,sports,basketball,district,Anne Sequeira,2024-2025,regular,91.8,0.0,90.43505,88.86
+198759,4.0,01-05-2023,9.5,1,cultural,choir,school,Anthony Coelho,2024-2025,regular,91.8,0.0,90.43505,88.86
+198760,4.0,01-05-2023,7.25,1,hobbies,"singing, music, reading",school,Deepak Agarwal,2024-2025,regular,91.8,0.0,90.43505,88.86
+198761,4.0,01-05-2023,7.21,1,sports,"runnning, long jump, high jump, relay run",school,Simon Fernandes,2024-2025,regular,91.8,0.0,90.43505,88.86
+198762,4.0,01-05-2023,7.79,1,games,badminton,school,Rahul Patel,2024-2025,regular,91.8,0.0,90.43505,88.86
+198763,4.0,01-05-2023,7.46,1,cultural,singing and dancing,school,Stephen Machado,2024-2025,regular,91.8,0.0,90.43505,88.86
+198764,4.0,01-05-2023,9.29,1,hobbies,travelling,school,Rahul Patel,2024-2025,regular,91.8,0.0,90.43505,88.86
+198765,4.0,01-05-2023,9.38,1,sports,"kabbadi,kho_kho,running,high_jump,shot_put",school,Anthony Castro,2024-2025,regular,91.8,0.0,90.43505,88.86
+198766,4.0,01-05-2023,7.98,1,games,relay,school,Junaid Ansari,2024-2025,regular,91.8,0.0,90.43505,88.86
+198767,4.0,01-05-2023,8.13,1,others,paper-presentation,national,Rohit Mehta,2024-2025,regular,91.8,0.0,90.43505,88.86
+198768,4.0,01-05-2023,8.58,1,sports,discuss throw 3rd prize two times,school,Rajesh Joshi,2024-2025,regular,91.8,0.0,90.43505,88.86
+198769,4.0,01-05-2023,6.13,1,others,certificate of merit in c  certificate of participation in nsc(national linux security),school,Vikram Malhotra,2024-2025,regular,91.8,0.0,90.43505,88.86
+198770,4.0,01-05-2023,8.33,1,sports,discuss throw 3rd prize two times,school,Anjali Verma,2024-2025,regular,91.8,0.0,90.43505,88.86
+198771,4.0,01-05-2023,0,0,others,certificate of merit in c  certificate of participation in nsc(national linux security),school,Mary Fernandes,2024-2025,regular,91.8,0.0,90.43505,88.86
+198772,4.0,01-05-2023,8.83,1,cultural,winner of project competition in  bhausaheb vartak polytechnic,school,Stephen Dias,2024-2025,regular,91.8,0.0,90.43505,88.86
+198773,4.0,01-05-2023,7.71,1,hobbies,"i like to travel at different places,watching televisiongardening,reading",school,Deepak Saxena,2024-2025,regular,91.8,0.0,90.43505,88.86
+198774,4.0,01-05-2023,9.48,1,others,in yoga competition in bhausaheb vartak polytechnic,school,Imran Khan,2024-2025,regular,91.8,0.0,90.43505,88.86
+198775,4.0,01-05-2023,0,0,others,paper-presentation,national,Rashid Chaudhry,2024-2025,regular,91.8,0.0,90.43505,88.86
+198776,4.0,01-05-2023,0,0,sports,volleyball (school level as well as participation in district level),district,Rajesh Agarwal,2024-2025,regular,91.8,0.0,90.43505,88.86
+198777,4.0,01-05-2023,7.13,1,cultural,science skit (nature club) ,district,Ramesh Nair,2024-2025,regular,91.8,0.0,90.43505,88.86
+198778,4.0,01-05-2023,7.83,1,hobbies,"music, writing, and sports",school,David Menezes,2024-2025,regular,91.8,0.0,90.43505,88.86
+198779,4.0,01-05-2023,6.96,1,hobbies,"singing, drawing and desighning.",school,Aarav Joshi,2024-2025,regular,91.8,0.0,90.43505,88.86
+198780,4.0,01-05-2023,8.71,1,hobbies,"singing, drawing and desighning.",school,Rajesh Joshi,2024-2025,regular,91.8,0.0,90.43505,88.86
+198781,4.0,01-05-2023,8.21,1,hobbies,"singing, drawing and desining.",school,Deepak Desai,2024-2025,regular,91.8,0.0,90.43505,88.86
+198782,4.0,01-05-2023,8.42,1,hobbies,"singing, drawing.",school,Aarav Bansal,2024-2025,regular,91.8,0.0,90.43505,88.86
+198783,4.0,01-05-2023,9.67,1,cultural,participated in cultural event of diploma college in all 3 years,school,Stephen Rodrigues,2024-2025,regular,91.8,0.0,90.43505,88.86
+198784,4.0,01-05-2023,9.04,1,cultural,participated in cultural event of diploma college in all 3 years,school,Stephen Machado,2024-2025,regular,91.8,0.0,90.43505,88.86
+198785,4.0,01-05-2023,6.58,1,cultural,participated in cultural event of diploma college in all 3 years,school,Francis Sequeira,2024-2025,regular,91.8,0.0,90.43505,88.86
+198786,4.0,01-05-2023,8.06,1,cultural,participated in cultural event of diploma college in all 3 years,school,Rahul Sharma,2024-2025,regular,91.8,0.0,90.43505,88.86
+198787,4.0,01-05-2023,9.38,1,sports,participated in cricket tournament,school,David Pereira,2024-2025,regular,91.8,0.0,90.43505,88.86
+198788,4.0,01-05-2023,8.75,1,games,participated in chess and carrom tournament,school,Catherine Almeida,2024-2025,regular,91.8,0.0,90.43505,88.86
+198789,4.0,01-05-2023,6.67,1,cultural,participated in cultural event of diploma college in all 3 years,school,Rajesh Ghosh,2024-2025,regular,91.8,0.0,90.43505,88.86
+198790,4.0,01-05-2023,7.33,1,hobbies,painting,school,Kiran Malhotra,2024-2025,regular,91.8,0.0,90.43505,88.86
+198791,4.0,01-05-2023,6.75,1,sports,participated in cricket tournament,school,Pooja Mehta,2024-2025,regular,91.8,0.0,90.43505,88.86
+198792,4.0,01-05-2023,8.13,1,games,participated in chess and carrom tournament,school,Thomas Carvalho,2024-2025,regular,91.8,0.0,90.43505,88.86
+198793,4.0,01-05-2023,9.31,1,cultural,participated in cultural event of diploma college in all 3 years,school,Simon Pinto,2024-2025,regular,91.8,0.0,90.43505,88.86
+198794,4.0,01-05-2023,7.33,1,hobbies,painting,school,Thomas D’Costa,2024-2025,regular,91.8,0.0,90.43505,88.86
+198795,4.0,01-05-2023,0,0,others,.,school,Christopher Pereira,2024-2025,regular,91.8,0.0,90.43505,88.86
+198796,4.0,01-05-2023,8,1,cultural,participated in cultural festival in diploma college in all 3 years,school,Stephen Fernandes,2024-2025,regular,91.8,0.0,90.43505,88.86
+198797,4.0,01-05-2023,0,0,sports,footbool,school,Teresa Fernandes,2024-2025,regular,91.8,0.0,90.43505,88.86
+198798,4.0,01-05-2023,0,0,games,carrom,school,Omar Kazmi,2024-2025,regular,91.8,0.0,90.43505,88.86
+198799,4.0,01-05-2023,7.67,1,hobbies,"cycling,playing soccer,cricket. ",school,Bilal Rehman,2024-2025,regular,91.8,0.0,90.43505,88.86
+198800,4.0,01-05-2023,7.39,1,sports,badminton,state,Neha Reddy,2024-2025,regular,91.8,0.0,90.43505,88.86
+198801,2.0,01-05-2023,9.05,1,games,chess,district,Ayesha Syed,2024-2025,regular,91.8,0.0,90.43505,88.86
+198802,2.0,01-05-2023,8.2,1,sports,cricket,school,Ayesha Gul,2024-2025,regular,91.8,0.0,90.43505,88.86
+198803,4.0,01-05-2023,8.67,1,sports,"badminton,swimming,  cricket, foot ball, volley ball,shot put",district,Anne D’Mello,2024-2025,regular,91.8,0.0,90.43505,88.86
+198804,4.0,01-05-2023,0,0,games,chess,district,Pooja Verma,2024-2025,regular,91.8,0.0,90.43505,88.86
+198805,2.0,01-05-2023,8.55,1,cultural,acting in  annual programme,school,Sanjay Malhotra,2024-2025,regular,91.8,0.0,90.43505,88.86
+198806,2.0,01-05-2023,9,1,hobbies,"reading books, listening music",school,Mary Sequeira,2024-2025,regular,91.8,0.0,90.43505,88.86
+198807,2.0,01-05-2023,9.25,1,others,he has won various awards in sports at various level,district,Daniel Pinto,2024-2025,regular,91.8,0.0,90.43505,88.86
+198808,4.0,01-05-2023,7.88,1,hobbies,singing,school,Junaid Tariq,2024-2025,regular,91.8,0.0,90.43505,88.86
+198809,2.0,01-05-2023,9.9,1,sports,badminton and throwball,school,Ramesh Malhotra,2024-2025,regular,91.8,0.0,90.43505,88.86
+198810,2.0,01-05-2023,8.65,1,cultural,performed at annual day,school,Francis Carvalho,2024-2025,regular,91.8,0.0,90.43505,88.86
+198811,2.0,01-05-2023,0,0,hobbies,singing,school,Meera Bansal,2024-2025,regular,91.8,0.0,90.43505,88.86
+198812,2.0,01-05-2023,8.45,1,sports,athletics,state,Ramesh Bhatt,2024-2025,regular,91.8,0.0,90.43505,88.86
+198813,2.0,01-05-2023,7.35,1,games,badminton,state,Neha Joshi,2024-2025,regular,91.8,0.0,90.43505,88.86
+198814,4.0,01-05-2023,9.21,1,sports,football,school,Varun Bansal,2024-2025,regular,91.8,0.0,90.43505,88.86
+198815,4.0,01-05-2023,0,0,sports,"cricket, volleyball",district,Ramesh Mehta,2024-2025,regular,91.8,0.0,90.43505,88.86
+198816,4.0,01-05-2023,8.79,1,games,table tennis,school,Kavita Bhatt,2024-2025,regular,91.8,0.0,90.43505,88.86
+198817,4.0,01-05-2023,7,1,sports,cricket,school,Pooja Bhatt,2024-2025,regular,91.8,0.0,90.43505,88.86
+198818,2.0,01-12-2023,0,0,cultural,musician/pianist/keyboardist,school,Thomas D'Souza,2024-2025,regular,91.8,0.0,90.43505,88.86
+198819,2.0,01-12-2023,0,0,sports,kho-kho,school,Sanjay Pandey,2024-2025,regular,91.8,0.0,90.43505,88.86
+198820,2.0,01-12-2023,0,0,games,chess,school,Sameer Wahid,2024-2025,regular,91.8,0.0,90.43505,88.86
+198821,2.0,01-12-2023,7.43,1,hobbies,"singing, dancing, swimming",school,Rahul Trivedi,2024-2025,regular,91.8,0.0,90.43505,88.86
+198822,2.0,01-12-2023,5.63,1,sports,cricket,school,Sameer Shaikh,2024-2025,regular,91.8,0.0,90.43505,88.86
+198823,2.0,01-12-2023,7.25,1,games,football,school,Meera Iyer,2024-2025,regular,91.8,0.0,90.43505,88.86
+198824,2.0,01-12-2023,6.48,1,hobbies,"listening music, playing games,reading books",school,Vikram Verma,2024-2025,regular,91.8,0.0,90.43505,88.86
+198825,2.0,01-12-2023,7.13,1,sports,"football,badminton",school,Amit Reddy,2024-2025,regular,91.8,0.0,90.43505,88.86
+198826,2.0,01-12-2023,7.08,1,games,carrom,school,Neha Mehta,2024-2025,regular,91.8,0.0,90.43505,88.86
+198827,2.0,01-12-2023,7.75,1,cultural,drama,school,Meera Sharma,2024-2025,regular,91.8,0.0,90.43505,88.86
+198828,4.0,01-05-2023,6.75,1,hobbies,"painting,sketching,dancing,movies",school,Elizabeth Fernandes,2024-2025,regular,91.8,0.0,90.43505,88.86
+198829,2.0,01-12-2023,0,0,others,none,school,Stephen Menezes,2024-2025,regular,91.8,0.0,90.43505,88.86
+198830,2.0,01-12-2023,7.7,1,sports,football,district,Paul Carvalho,2024-2025,regular,91.8,0.0,90.43505,88.86
+198831,2.0,01-12-2023,0,0,games,fifa ,district,Rajesh Bansal,2024-2025,regular,91.8,0.0,90.43505,88.86
+198832,2.0,01-12-2023,6.85,rs1,cultural,danced,school,Kavita Choudhary,2024-2025,regular,91.8,0.0,90.43505,88.86
+198833,4.0,01-05-2023,8.29,1,others,part time youtuber (subscribe to my channel please!!!!),national,Michael Pinto,2024-2025,regular,91.8,0.0,90.43505,88.86
+198834,4.0,01-05-2023,8.75,1,sports,"football, badminton",school,Christopher Dias,2024-2025,regular,91.8,0.0,90.43505,88.86
+198835,4.0,01-05-2023,0,0,hobbies,"gaming, youtubing",school,Sneha Trivedi,2024-2025,regular,91.8,0.0,90.43505,88.86
+198836,2.0,01-05-2023,0,0,sports,football,school,Manish Joshi,2024-2025,regular,91.8,0.0,90.43505,88.86
+198837,2.0,01-05-2023,0,0,games,"fifa 16, gta 5, counter strike",national,Paul Carvalho,2024-2025,regular,91.8,0.0,90.43505,88.86
+198838,2.0,01-05-2023,5.83,1,cultural,"dancing, acting",school,Elizabeth D’Mello,2024-2025,regular,91.8,0.0,90.43505,88.86
+198839,2.0,01-05-2023,0,0,hobbies,"football, gaming, dancing",school,Rahul Bhatt,2024-2025,regular,91.8,0.0,90.43505,88.86
+198840,4.0,01-05-2023,6.5,1,others,"ludo, monopoly ",school,Francis Gomes,2024-2025,regular,91.8,0.0,90.43505,88.86
+198841,4.0,01-05-2023,7.46,1,sports,cricket,school,Meera Saxena,2024-2025,regular,91.8,0.0,90.43505,88.86
+198842,4.0,01-05-2023,8.17,1,games,"carrom,chess",school,Manish Iyer,2024-2025,regular,91.8,0.0,90.43505,88.86
+198843,4.0,01-05-2023,8.33,1,cultural,none,school,Pooja Chopra,2024-2025,regular,91.8,0.0,90.43505,88.86
+198844,4.0,01-05-2023,6.29,1,hobbies,"painting,sketching",school,Mary Noronha,2024-2025,regular,91.8,0.0,90.43505,88.86
+198845,4.0,01-05-2023,8.21,1,others,none,school,Peter Menezes,2024-2025,regular,91.8,0.0,90.43505,88.86
+198846,4.0,01-05-2023,8.25,1,sports,"football, table tennis",school,Deepak Bhatt,2024-2025,regular,91.8,0.0,90.43505,88.86
+198847,4.0,01-05-2023,8.33,1,cultural,guitar,school,Sanjay Nair,2024-2025,regular,91.8,0.0,90.43505,88.86
+198848,4.0,01-05-2023,8.71,1,sports,to ride the downward spiral to hell!! [international level],national,Francis Monteiro,2024-2025,regular,91.8,0.0,90.43505,88.86
+198849,2.0,01-12-2023,7.28,1,games,game of life? [spiritual level],national,Kavita Sharma,2024-2025,regular,91.8,0.0,90.43505,88.86
+198850,2.0,01-12-2023,9.1,1,cultural,culturally trained to judge people [from outer side but crying about my own life from the inner side],national,Kavita Saxena,2024-2025,regular,91.8,0.0,90.43505,88.86
+198851,2.0,01-05-2023,0,0,hobbies,"frequently take impossible tasks ,achieve it and make inappropriate jokes, if i dont complete the target,well idc and idk [international level]",national,Sanjay Mehta,2024-2025,regular,91.8,0.0,90.43505,88.86
+198852,2.0,01-05-2023,0,0,others,blue whale [spiritual level],national,Pooja Pandey,2024-2025,regular,91.8,0.0,90.43505,88.86
+198853,2.0,01-05-2023,0,0,sports,football,district,Priya Joshi,2024-2025,regular,91.8,0.0,90.43505,88.86
+198854,2.0,01-05-2023,6.65,1,games,football,district,Kavita Kulkarni,2024-2025,regular,91.8,0.0,90.43505,88.86
+198855,2.0,01-05-2023,6.85,1,cultural,none,school,Zara Kazmi,2024-2025,regular,91.8,0.0,90.43505,88.86
+198856,2.0,01-05-2023,0,0,hobbies,reading,school,Junaid Kazmi,2024-2025,regular,91.8,0.0,90.43505,88.86
+198857,2.0,01-05-2023,7,1,others,coding,school,Michael Menezes,2024-2025,regular,91.8,0.0,90.43505,88.86
+198858,2.0,01-05-2023,7.95,1,sports,took a part in a sports competions,school,Sanjay Sharma,2024-2025,regular,91.8,0.0,90.43505,88.86
+198859,2.0,01-05-2023,8.85,1,sports,"football,cricket",school,Manish Trivedi,2024-2025,regular,91.8,0.0,90.43505,88.86
+198860,2.0,01-05-2023,7.45,1,games,"clash of clans,clash royale,cs-go,cs-1.6,",district,Neha Saxena,2024-2025,regular,91.8,0.0,90.43505,88.86
+198861,2.0,01-05-2023,7.7,1,sports,karate,district,David Menezes,2024-2025,regular,91.8,0.0,90.43505,88.86
+198862,2.0,01-05-2023,7.75,1,cultural,music,school,Rohit Sharma,2024-2025,regular,91.8,0.0,90.43505,88.86
+198863,2.0,01-05-2023,0,0,hobbies,music,school,Meera Mehta,2024-2025,regular,91.8,0.0,90.43505,88.86
+198864,2.0,01-05-2023,8.95,1,sports,basketball,district,Anjali Reddy,2024-2025,regular,91.8,0.0,90.43505,88.86
+198865,3.0,01-12-2022,7.17,1,sports,-,school,Rajesh Malhotra,2024-2025,regular,91.8,0.0,90.43505,88.86
+198866,2.0,01-05-2023,7.58,1,games,-,school,Amit Iyer,2024-2025,regular,91.8,0.0,90.43505,88.86
+198867,2.0,01-05-2023,8.18,1,cultural,-,school,Sanjay Nair,2024-2025,regular,91.8,0.0,90.43505,88.86
+198868,2.0,01-05-2023,7.05,1,hobbies,-,school,Joseph Pereira,2024-2025,regular,91.8,0.0,90.43505,88.86
+198869,2.0,01-05-2023,0,0,others,-,school,Zara Shan,2024-2025,regular,91.8,0.0,90.43505,88.86
+198870,2.0,01-05-2023,8.15,1,sports,running races,school,Neha Joshi,2024-2025,regular,91.8,0.0,90.43505,88.86
+198871,2.0,01-05-2023,8.53,1,games,"kho-kho, hand ball",school,Aarav Bhatt,2024-2025,regular,91.8,0.0,90.43505,88.86
+198872,2.0,01-05-2023,0,0,cultural,"skit, drama",school,Rohit Patel,2024-2025,regular,91.8,0.0,90.43505,88.86
+198873,2.0,01-05-2023,8.5,1,hobbies,"reading books, sketching",school,David Pinto,2024-2025,regular,91.8,0.0,90.43505,88.86
+198874,2.0,01-05-2023,0,0,sports,-,national,Meera Pandey,2024-2025,regular,91.8,0.0,90.43505,88.86
+198875,2.0,01-05-2023,7.3,1,games,-,national,Yusuf Qureshi,2024-2025,regular,91.8,0.0,90.43505,88.86
+198876,2.0,01-05-2023,8.6,1,cultural,-,national,Daniel D’Mello,2024-2025,regular,91.8,0.0,90.43505,88.86
+198877,2.0,01-05-2023,7.88,1,hobbies,-,national,Deepak Joshi,2024-2025,regular,91.8,0.0,90.43505,88.86
+198878,2.0,01-05-2023,0,0,others,-,national,David Rodrigues,2024-2025,regular,91.8,0.0,90.43505,88.86
+198879,2.0,01-05-2023,0,0,sports,kabaddi,school,Omar Siddiqui,2024-2025,regular,91.8,0.0,90.43505,88.86
+198880,2.0,01-05-2023,7.5,1,cultural,skit and street plays,school,Nikita Desai,2024-2025,regular,91.8,0.0,90.43505,88.86
+198881,2.0,01-05-2023,0,0,hobbies,cycling and swimming,school,Margaret Almeida,2024-2025,regular,91.8,0.0,90.43505,88.86
