@@ -1,0 +1,418 @@
+[
+  {
+    "input": "NLP Query: What is the average cet grouped by acadyear",
+    "output": "SQL: SELECT acadyear, AVG(e.cet) FROM admission h JOIN previous_edu e ON h.pid = e.pid GROUP BY acadyear; Chart: bar",
+    "x_axis": "acadyear",
+    "y_axis": "avg_cet",
+    "group_by": "acadyear",
+    "schema_context": "Tables:\n1. primary(pid, Name)\n2. admission(pid, acadyear, stat, month_year)\n3. result(pid, sem, gpa, result)\n4. hobby(pid, ECategory, Hobby, Hobby_level)\n5. previous_edu(pid, ssc, hsc, cet, diploma)\nRelationships:\n- All tables are joined via pid (primary key)",
+    "viz_config": {
+      "color": "default",
+      "sort_order": "asc"
+    },
+    "chart": "bar"
+  },
+  {
+    "input": "NLP Query: What is the GPA trend over semesters for students interested in football",
+    "output": "SQL: SELECT r.sem, AVG(r.gpa) FROM result r JOIN hobby h ON r.pid = h.pid WHERE h.Hobby = 'football' GROUP BY r.sem ORDER BY r.sem; Chart: line",
+    "x_axis": "sem",
+    "y_axis": "avg_gpa",
+    "group_by": "sem",
+    "schema_context": "Tables:\n1. primary(pid, Name)\n2. admission(pid, acadyear, stat, month_year)\n3. result(pid, sem, gpa, result)\n4. hobby(pid, ECategory, Hobby, Hobby_level)\n5. previous_edu(pid, ssc, hsc, cet, diploma)\nRelationships:\n- All tables are joined via pid (primary key)",
+    "viz_config": {
+      "color": "default",
+      "sort_order": "asc"
+    },
+    "chart": "line"
+  },
+  {
+    "input": "NLP Query: What is the average ssc grouped by ECategory",
+    "output": "SQL: SELECT ECategory, AVG(e.ssc) FROM hobby h JOIN previous_edu e ON h.pid = e.pid GROUP BY ECategory; Chart: bar",
+    "x_axis": "ECategory",
+    "y_axis": "avg_ssc",
+    "group_by": "ECategory",
+    "schema_context": "Tables:\n1. primary(pid, Name)\n2. admission(pid, acadyear, stat, month_year)\n3. result(pid, sem, gpa, result)\n4. hobby(pid, ECategory, Hobby, Hobby_level)\n5. previous_edu(pid, ssc, hsc, cet, diploma)\nRelationships:\n- All tables are joined via pid (primary key)",
+    "viz_config": {
+      "color": "default",
+      "sort_order": "asc"
+    },
+    "chart": "bar"
+  },
+  {
+    "input": "NLP Query: Compare gpa with diploma",
+    "output": "SQL: SELECT x.gpa, y.diploma FROM result x JOIN previous_edu y ON x.pid = y.pid; Chart: scatter",
+    "x_axis": "gpa",
+    "y_axis": "diploma",
+    "group_by": "",
+    "schema_context": "Tables:\n1. primary(pid, Name)\n2. admission(pid, acadyear, stat, month_year)\n3. result(pid, sem, gpa, result)\n4. hobby(pid, ECategory, Hobby, Hobby_level)\n5. previous_edu(pid, ssc, hsc, cet, diploma)\nRelationships:\n- All tables are joined via pid (primary key)",
+    "viz_config": {
+      "color": "default",
+      "sort_order": "asc"
+    },
+    "chart": "scatter"
+  },
+  {
+    "input": "NLP Query: Compare cet with diploma",
+    "output": "SQL: SELECT x.cet, y.diploma FROM previous_edu x JOIN previous_edu y ON x.pid = y.pid; Chart: scatter",
+    "x_axis": "cet",
+    "y_axis": "diploma",
+    "group_by": "",
+    "schema_context": "Tables:\n1. primary(pid, Name)\n2. admission(pid, acadyear, stat, month_year)\n3. result(pid, sem, gpa, result)\n4. hobby(pid, ECategory, Hobby, Hobby_level)\n5. previous_edu(pid, ssc, hsc, cet, diploma)\nRelationships:\n- All tables are joined via pid (primary key)",
+    "viz_config": {
+      "color": "default",
+      "sort_order": "asc"
+    },
+    "chart": "scatter"
+  },
+  {
+    "input": "NLP Query: What is the average ssc grouped by acadyear",
+    "output": "SQL: SELECT acadyear, AVG(e.ssc) FROM admission h JOIN previous_edu e ON h.pid = e.pid GROUP BY acadyear; Chart: bar",
+    "x_axis": "acadyear",
+    "y_axis": "avg_ssc",
+    "group_by": "acadyear",
+    "schema_context": "Tables:\n1. primary(pid, Name)\n2. admission(pid, acadyear, stat, month_year)\n3. result(pid, sem, gpa, result)\n4. hobby(pid, ECategory, Hobby, Hobby_level)\n5. previous_edu(pid, ssc, hsc, cet, diploma)\nRelationships:\n- All tables are joined via pid (primary key)",
+    "viz_config": {
+      "color": "default",
+      "sort_order": "asc"
+    },
+    "chart": "bar"
+  },
+  {
+    "input": "NLP Query: What is the average diploma grouped by ECategory",
+    "output": "SQL: SELECT ECategory, AVG(e.diploma) FROM hobby h JOIN previous_edu e ON h.pid = e.pid GROUP BY ECategory; Chart: bar",
+    "x_axis": "ECategory",
+    "y_axis": "avg_diploma",
+    "group_by": "ECategory",
+    "schema_context": "Tables:\n1. primary(pid, Name)\n2. admission(pid, acadyear, stat, month_year)\n3. result(pid, sem, gpa, result)\n4. hobby(pid, ECategory, Hobby, Hobby_level)\n5. previous_edu(pid, ssc, hsc, cet, diploma)\nRelationships:\n- All tables are joined via pid (primary key)",
+    "viz_config": {
+      "color": "default",
+      "sort_order": "asc"
+    },
+    "chart": "bar"
+  },
+  {
+    "input": "NLP Query: What is the GPA trend over semesters for students interested in music",
+    "output": "SQL: SELECT r.sem, AVG(r.gpa) FROM result r JOIN hobby h ON r.pid = h.pid WHERE h.Hobby = 'music' GROUP BY r.sem ORDER BY r.sem; Chart: line",
+    "x_axis": "sem",
+    "y_axis": "avg_gpa",
+    "group_by": "sem",
+    "schema_context": "Tables:\n1. primary(pid, Name)\n2. admission(pid, acadyear, stat, month_year)\n3. result(pid, sem, gpa, result)\n4. hobby(pid, ECategory, Hobby, Hobby_level)\n5. previous_edu(pid, ssc, hsc, cet, diploma)\nRelationships:\n- All tables are joined via pid (primary key)",
+    "viz_config": {
+      "color": "default",
+      "sort_order": "asc"
+    },
+    "chart": "line"
+  },
+  {
+    "input": "NLP Query: What is the result for students with gpa above 90",
+    "output": "SQL: SELECT result, COUNT(*) FROM result h JOIN result p ON h.pid = p.pid WHERE p.gpa > 90 GROUP BY result; Chart: pie",
+    "x_axis": "result",
+    "y_axis": "count",
+    "group_by": "result",
+    "schema_context": "Tables:\n1. primary(pid, Name)\n2. admission(pid, acadyear, stat, month_year)\n3. result(pid, sem, gpa, result)\n4. hobby(pid, ECategory, Hobby, Hobby_level)\n5. previous_edu(pid, ssc, hsc, cet, diploma)\nRelationships:\n- All tables are joined via pid (primary key)",
+    "viz_config": {
+      "color": "default",
+      "sort_order": "asc"
+    },
+    "chart": "pie"
+  },
+  {
+    "input": "NLP Query: What is the ECategory for students with gpa above 80",
+    "output": "SQL: SELECT ECategory, COUNT(*) FROM hobby h JOIN result p ON h.pid = p.pid WHERE p.gpa > 80 GROUP BY ECategory; Chart: pie",
+    "x_axis": "ECategory",
+    "y_axis": "count",
+    "group_by": "ECategory",
+    "schema_context": "Tables:\n1. primary(pid, Name)\n2. admission(pid, acadyear, stat, month_year)\n3. result(pid, sem, gpa, result)\n4. hobby(pid, ECategory, Hobby, Hobby_level)\n5. previous_edu(pid, ssc, hsc, cet, diploma)\nRelationships:\n- All tables are joined via pid (primary key)",
+    "viz_config": {
+      "color": "default",
+      "sort_order": "asc"
+    },
+    "chart": "pie"
+  },
+  {
+    "input": "NLP Query: What is the GPA trend over semesters for students interested in cricket",
+    "output": "SQL: SELECT r.sem, AVG(r.gpa) FROM result r JOIN hobby h ON r.pid = h.pid WHERE h.Hobby = 'cricket' GROUP BY r.sem ORDER BY r.sem; Chart: line",
+    "x_axis": "sem",
+    "y_axis": "avg_gpa",
+    "group_by": "sem",
+    "schema_context": "Tables:\n1. primary(pid, Name)\n2. admission(pid, acadyear, stat, month_year)\n3. result(pid, sem, gpa, result)\n4. hobby(pid, ECategory, Hobby, Hobby_level)\n5. previous_edu(pid, ssc, hsc, cet, diploma)\nRelationships:\n- All tables are joined via pid (primary key)",
+    "viz_config": {
+      "color": "default",
+      "sort_order": "asc"
+    },
+    "chart": "line"
+  },
+  {
+    "input": "NLP Query: What is the average hsc grouped by acadyear",
+    "output": "SQL: SELECT acadyear, AVG(e.hsc) FROM admission h JOIN previous_edu e ON h.pid = e.pid GROUP BY acadyear; Chart: bar",
+    "x_axis": "acadyear",
+    "y_axis": "avg_hsc",
+    "group_by": "acadyear",
+    "schema_context": "Tables:\n1. primary(pid, Name)\n2. admission(pid, acadyear, stat, month_year)\n3. result(pid, sem, gpa, result)\n4. hobby(pid, ECategory, Hobby, Hobby_level)\n5. previous_edu(pid, ssc, hsc, cet, diploma)\nRelationships:\n- All tables are joined via pid (primary key)",
+    "viz_config": {
+      "color": "default",
+      "sort_order": "asc"
+    },
+    "chart": "bar"
+  },
+  {
+    "input": "NLP Query: What is the average ssc grouped by result",
+    "output": "SQL: SELECT result, AVG(e.ssc) FROM result h JOIN previous_edu e ON h.pid = e.pid GROUP BY result; Chart: bar",
+    "x_axis": "result",
+    "y_axis": "avg_ssc",
+    "group_by": "result",
+    "schema_context": "Tables:\n1. primary(pid, Name)\n2. admission(pid, acadyear, stat, month_year)\n3. result(pid, sem, gpa, result)\n4. hobby(pid, ECategory, Hobby, Hobby_level)\n5. previous_edu(pid, ssc, hsc, cet, diploma)\nRelationships:\n- All tables are joined via pid (primary key)",
+    "viz_config": {
+      "color": "default",
+      "sort_order": "asc"
+    },
+    "chart": "bar"
+  },
+  {
+    "input": "NLP Query: What is the ECategory for students with ssc above 70",
+    "output": "SQL: SELECT ECategory, COUNT(*) FROM hobby h JOIN previous_edu p ON h.pid = p.pid WHERE p.ssc > 70 GROUP BY ECategory; Chart: pie",
+    "x_axis": "ECategory",
+    "y_axis": "count",
+    "group_by": "ECategory",
+    "schema_context": "Tables:\n1. primary(pid, Name)\n2. admission(pid, acadyear, stat, month_year)\n3. result(pid, sem, gpa, result)\n4. hobby(pid, ECategory, Hobby, Hobby_level)\n5. previous_edu(pid, ssc, hsc, cet, diploma)\nRelationships:\n- All tables are joined via pid (primary key)",
+    "viz_config": {
+      "color": "default",
+      "sort_order": "asc"
+    },
+    "chart": "pie"
+  },
+  {
+    "input": "NLP Query: Compare gpa with ssc",
+    "output": "SQL: SELECT x.gpa, y.ssc FROM result x JOIN previous_edu y ON x.pid = y.pid; Chart: scatter",
+    "x_axis": "gpa",
+    "y_axis": "ssc",
+    "group_by": "",
+    "schema_context": "Tables:\n1. primary(pid, Name)\n2. admission(pid, acadyear, stat, month_year)\n3. result(pid, sem, gpa, result)\n4. hobby(pid, ECategory, Hobby, Hobby_level)\n5. previous_edu(pid, ssc, hsc, cet, diploma)\nRelationships:\n- All tables are joined via pid (primary key)",
+    "viz_config": {
+      "color": "default",
+      "sort_order": "asc"
+    },
+    "chart": "scatter"
+  },
+  {
+    "input": "NLP Query: What is the average hsc grouped by result",
+    "output": "SQL: SELECT result, AVG(e.hsc) FROM result h JOIN previous_edu e ON h.pid = e.pid GROUP BY result; Chart: bar",
+    "x_axis": "result",
+    "y_axis": "avg_hsc",
+    "group_by": "result",
+    "schema_context": "Tables:\n1. primary(pid, Name)\n2. admission(pid, acadyear, stat, month_year)\n3. result(pid, sem, gpa, result)\n4. hobby(pid, ECategory, Hobby, Hobby_level)\n5. previous_edu(pid, ssc, hsc, cet, diploma)\nRelationships:\n- All tables are joined via pid (primary key)",
+    "viz_config": {
+      "color": "default",
+      "sort_order": "asc"
+    },
+    "chart": "bar"
+  },
+  {
+    "input": "NLP Query: What is the ECategory for students with gpa above 90",
+    "output": "SQL: SELECT ECategory, COUNT(*) FROM hobby h JOIN result p ON h.pid = p.pid WHERE p.gpa > 90 GROUP BY ECategory; Chart: pie",
+    "x_axis": "ECategory",
+    "y_axis": "count",
+    "group_by": "ECategory",
+    "schema_context": "Tables:\n1. primary(pid, Name)\n2. admission(pid, acadyear, stat, month_year)\n3. result(pid, sem, gpa, result)\n4. hobby(pid, ECategory, Hobby, Hobby_level)\n5. previous_edu(pid, ssc, hsc, cet, diploma)\nRelationships:\n- All tables are joined via pid (primary key)",
+    "viz_config": {
+      "color": "default",
+      "sort_order": "asc"
+    },
+    "chart": "pie"
+  },
+  {
+    "input": "NLP Query: What is the result for students with ssc above 70",
+    "output": "SQL: SELECT result, COUNT(*) FROM result h JOIN previous_edu p ON h.pid = p.pid WHERE p.ssc > 70 GROUP BY result; Chart: pie",
+    "x_axis": "result",
+    "y_axis": "count",
+    "group_by": "result",
+    "schema_context": "Tables:\n1. primary(pid, Name)\n2. admission(pid, acadyear, stat, month_year)\n3. result(pid, sem, gpa, result)\n4. hobby(pid, ECategory, Hobby, Hobby_level)\n5. previous_edu(pid, ssc, hsc, cet, diploma)\nRelationships:\n- All tables are joined via pid (primary key)",
+    "viz_config": {
+      "color": "default",
+      "sort_order": "asc"
+    },
+    "chart": "pie"
+  },
+  {
+    "input": "NLP Query: Compare cet with ssc",
+    "output": "SQL: SELECT x.cet, y.ssc FROM previous_edu x JOIN previous_edu y ON x.pid = y.pid; Chart: scatter",
+    "x_axis": "cet",
+    "y_axis": "ssc",
+    "group_by": "",
+    "schema_context": "Tables:\n1. primary(pid, Name)\n2. admission(pid, acadyear, stat, month_year)\n3. result(pid, sem, gpa, result)\n4. hobby(pid, ECategory, Hobby, Hobby_level)\n5. previous_edu(pid, ssc, hsc, cet, diploma)\nRelationships:\n- All tables are joined via pid (primary key)",
+    "viz_config": {
+      "color": "default",
+      "sort_order": "asc"
+    },
+    "chart": "scatter"
+  },
+  {
+    "input": "NLP Query: What is the result for students with gpa above 70",
+    "output": "SQL: SELECT result, COUNT(*) FROM result h JOIN result p ON h.pid = p.pid WHERE p.gpa > 70 GROUP BY result; Chart: pie",
+    "x_axis": "result",
+    "y_axis": "count",
+    "group_by": "result",
+    "schema_context": "Tables:\n1. primary(pid, Name)\n2. admission(pid, acadyear, stat, month_year)\n3. result(pid, sem, gpa, result)\n4. hobby(pid, ECategory, Hobby, Hobby_level)\n5. previous_edu(pid, ssc, hsc, cet, diploma)\nRelationships:\n- All tables are joined via pid (primary key)",
+    "viz_config": {
+      "color": "default",
+      "sort_order": "asc"
+    },
+    "chart": "pie"
+  },
+  {
+    "input": "NLP Query: What is the average cet grouped by ECategory",
+    "output": "SQL: SELECT ECategory, AVG(e.cet) FROM hobby h JOIN previous_edu e ON h.pid = e.pid GROUP BY ECategory; Chart: bar",
+    "x_axis": "ECategory",
+    "y_axis": "avg_cet",
+    "group_by": "ECategory",
+    "schema_context": "Tables:\n1. primary(pid, Name)\n2. admission(pid, acadyear, stat, month_year)\n3. result(pid, sem, gpa, result)\n4. hobby(pid, ECategory, Hobby, Hobby_level)\n5. previous_edu(pid, ssc, hsc, cet, diploma)\nRelationships:\n- All tables are joined via pid (primary key)",
+    "viz_config": {
+      "color": "default",
+      "sort_order": "asc"
+    },
+    "chart": "bar"
+  },
+  {
+    "input": "NLP Query: What is the result for students with ssc above 90",
+    "output": "SQL: SELECT result, COUNT(*) FROM result h JOIN previous_edu p ON h.pid = p.pid WHERE p.ssc > 90 GROUP BY result; Chart: pie",
+    "x_axis": "result",
+    "y_axis": "count",
+    "group_by": "result",
+    "schema_context": "Tables:\n1. primary(pid, Name)\n2. admission(pid, acadyear, stat, month_year)\n3. result(pid, sem, gpa, result)\n4. hobby(pid, ECategory, Hobby, Hobby_level)\n5. previous_edu(pid, ssc, hsc, cet, diploma)\nRelationships:\n- All tables are joined via pid (primary key)",
+    "viz_config": {
+      "color": "default",
+      "sort_order": "asc"
+    },
+    "chart": "pie"
+  },
+  {
+    "input": "NLP Query: What is the average diploma grouped by acadyear",
+    "output": "SQL: SELECT acadyear, AVG(e.diploma) FROM admission h JOIN previous_edu e ON h.pid = e.pid GROUP BY acadyear; Chart: bar",
+    "x_axis": "acadyear",
+    "y_axis": "avg_diploma",
+    "group_by": "acadyear",
+    "schema_context": "Tables:\n1. primary(pid, Name)\n2. admission(pid, acadyear, stat, month_year)\n3. result(pid, sem, gpa, result)\n4. hobby(pid, ECategory, Hobby, Hobby_level)\n5. previous_edu(pid, ssc, hsc, cet, diploma)\nRelationships:\n- All tables are joined via pid (primary key)",
+    "viz_config": {
+      "color": "default",
+      "sort_order": "asc"
+    },
+    "chart": "bar"
+  },
+  {
+    "input": "NLP Query: What is the ECategory for students with ssc above 80",
+    "output": "SQL: SELECT ECategory, COUNT(*) FROM hobby h JOIN previous_edu p ON h.pid = p.pid WHERE p.ssc > 80 GROUP BY ECategory; Chart: pie",
+    "x_axis": "ECategory",
+    "y_axis": "count",
+    "group_by": "ECategory",
+    "schema_context": "Tables:\n1. primary(pid, Name)\n2. admission(pid, acadyear, stat, month_year)\n3. result(pid, sem, gpa, result)\n4. hobby(pid, ECategory, Hobby, Hobby_level)\n5. previous_edu(pid, ssc, hsc, cet, diploma)\nRelationships:\n- All tables are joined via pid (primary key)",
+    "viz_config": {
+      "color": "default",
+      "sort_order": "asc"
+    },
+    "chart": "pie"
+  },
+  {
+    "input": "NLP Query: What is the result for students with ssc above 80",
+    "output": "SQL: SELECT result, COUNT(*) FROM result h JOIN previous_edu p ON h.pid = p.pid WHERE p.ssc > 80 GROUP BY result; Chart: pie",
+    "x_axis": "result",
+    "y_axis": "count",
+    "group_by": "result",
+    "schema_context": "Tables:\n1. primary(pid, Name)\n2. admission(pid, acadyear, stat, month_year)\n3. result(pid, sem, gpa, result)\n4. hobby(pid, ECategory, Hobby, Hobby_level)\n5. previous_edu(pid, ssc, hsc, cet, diploma)\nRelationships:\n- All tables are joined via pid (primary key)",
+    "viz_config": {
+      "color": "default",
+      "sort_order": "asc"
+    },
+    "chart": "pie"
+  },
+  {
+    "input": "NLP Query: What is the average diploma grouped by result",
+    "output": "SQL: SELECT result, AVG(e.diploma) FROM result h JOIN previous_edu e ON h.pid = e.pid GROUP BY result; Chart: bar",
+    "x_axis": "result",
+    "y_axis": "avg_diploma",
+    "group_by": "result",
+    "schema_context": "Tables:\n1. primary(pid, Name)\n2. admission(pid, acadyear, stat, month_year)\n3. result(pid, sem, gpa, result)\n4. hobby(pid, ECategory, Hobby, Hobby_level)\n5. previous_edu(pid, ssc, hsc, cet, diploma)\nRelationships:\n- All tables are joined via pid (primary key)",
+    "viz_config": {
+      "color": "default",
+      "sort_order": "asc"
+    },
+    "chart": "bar"
+  },
+  {
+    "input": "NLP Query: What is the average hsc grouped by ECategory",
+    "output": "SQL: SELECT ECategory, AVG(e.hsc) FROM hobby h JOIN previous_edu e ON h.pid = e.pid GROUP BY ECategory; Chart: bar",
+    "x_axis": "ECategory",
+    "y_axis": "avg_hsc",
+    "group_by": "ECategory",
+    "schema_context": "Tables:\n1. primary(pid, Name)\n2. admission(pid, acadyear, stat, month_year)\n3. result(pid, sem, gpa, result)\n4. hobby(pid, ECategory, Hobby, Hobby_level)\n5. previous_edu(pid, ssc, hsc, cet, diploma)\nRelationships:\n- All tables are joined via pid (primary key)",
+    "viz_config": {
+      "color": "default",
+      "sort_order": "asc"
+    },
+    "chart": "bar"
+  },
+  {
+    "input": "NLP Query: What is the GPA trend over semesters for students interested in chess",
+    "output": "SQL: SELECT r.sem, AVG(r.gpa) FROM result r JOIN hobby h ON r.pid = h.pid WHERE h.Hobby = 'chess' GROUP BY r.sem ORDER BY r.sem; Chart: line",
+    "x_axis": "sem",
+    "y_axis": "avg_gpa",
+    "group_by": "sem",
+    "schema_context": "Tables:\n1. primary(pid, Name)\n2. admission(pid, acadyear, stat, month_year)\n3. result(pid, sem, gpa, result)\n4. hobby(pid, ECategory, Hobby, Hobby_level)\n5. previous_edu(pid, ssc, hsc, cet, diploma)\nRelationships:\n- All tables are joined via pid (primary key)",
+    "viz_config": {
+      "color": "default",
+      "sort_order": "asc"
+    },
+    "chart": "line"
+  },
+  {
+    "input": "NLP Query: What is the ECategory for students with gpa above 70",
+    "output": "SQL: SELECT ECategory, COUNT(*) FROM hobby h JOIN result p ON h.pid = p.pid WHERE p.gpa > 70 GROUP BY ECategory; Chart: pie",
+    "x_axis": "ECategory",
+    "y_axis": "count",
+    "group_by": "ECategory",
+    "schema_context": "Tables:\n1. primary(pid, Name)\n2. admission(pid, acadyear, stat, month_year)\n3. result(pid, sem, gpa, result)\n4. hobby(pid, ECategory, Hobby, Hobby_level)\n5. previous_edu(pid, ssc, hsc, cet, diploma)\nRelationships:\n- All tables are joined via pid (primary key)",
+    "viz_config": {
+      "color": "default",
+      "sort_order": "asc"
+    },
+    "chart": "pie"
+  },
+  {
+    "input": "NLP Query: What is the average cet grouped by result",
+    "output": "SQL: SELECT result, AVG(e.cet) FROM result h JOIN previous_edu e ON h.pid = e.pid GROUP BY result; Chart: bar",
+    "x_axis": "result",
+    "y_axis": "avg_cet",
+    "group_by": "result",
+    "schema_context": "Tables:\n1. primary(pid, Name)\n2. admission(pid, acadyear, stat, month_year)\n3. result(pid, sem, gpa, result)\n4. hobby(pid, ECategory, Hobby, Hobby_level)\n5. previous_edu(pid, ssc, hsc, cet, diploma)\nRelationships:\n- All tables are joined via pid (primary key)",
+    "viz_config": {
+      "color": "default",
+      "sort_order": "asc"
+    },
+    "chart": "bar"
+  },
+  {
+    "input": "NLP Query: What is the ECategory for students with ssc above 90",
+    "output": "SQL: SELECT ECategory, COUNT(*) FROM hobby h JOIN previous_edu p ON h.pid = p.pid WHERE p.ssc > 90 GROUP BY ECategory; Chart: pie",
+    "x_axis": "ECategory",
+    "y_axis": "count",
+    "group_by": "ECategory",
+    "schema_context": "Tables:\n1. primary(pid, Name)\n2. admission(pid, acadyear, stat, month_year)\n3. result(pid, sem, gpa, result)\n4. hobby(pid, ECategory, Hobby, Hobby_level)\n5. previous_edu(pid, ssc, hsc, cet, diploma)\nRelationships:\n- All tables are joined via pid (primary key)",
+    "viz_config": {
+      "color": "default",
+      "sort_order": "asc"
+    },
+    "chart": "pie"
+  },
+  {
+    "input": "NLP Query: What is the result for students with gpa above 80",
+    "output": "SQL: SELECT result, COUNT(*) FROM result h JOIN result p ON h.pid = p.pid WHERE p.gpa > 80 GROUP BY result; Chart: pie",
+    "x_axis": "result",
+    "y_axis": "count",
+    "group_by": "result",
+    "schema_context": "Tables:\n1. primary(pid, Name)\n2. admission(pid, acadyear, stat, month_year)\n3. result(pid, sem, gpa, result)\n4. hobby(pid, ECategory, Hobby, Hobby_level)\n5. previous_edu(pid, ssc, hsc, cet, diploma)\nRelationships:\n- All tables are joined via pid (primary key)",
+    "viz_config": {
+      "color": "default",
+      "sort_order": "asc"
+    },
+    "chart": "pie"
+  }
+]
